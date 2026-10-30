@@ -1,0 +1,31 @@
+apps/mobile/src/features/usage/UsageLimitsPooled.tsx
+  s_7652af8820cf26::t_488ed2c37291a8 12,191-195,392,402,599-603
+apps/server/src/provider/claudeUsageLimits.test.ts
+  s_7652af8820cf26::t_422d6e8b895d40 131,137-140,203-211
+apps/server/src/provider/claudeUsageLimits.ts
+  s_7652af8820cf26::t_02a0bfe71e3722 84-96,108-118,123-136,138,239-241
+apps/web/src/components/usage/UsageLimitsPooled.tsx
+  s_7652af8820cf26::t_954d9408a3720a 10,153,189,547-548,568-575
+packages/contracts/src/providerUsageLimits.ts
+  s_7652af8820cf26::t_3d338619eddee1 12-20,29
+packages/shared/src/usageLimits.test.ts
+  s_7652af8820cf26::t_444155c9f8c56c 22,167-180
+packages/shared/src/usageLimits.ts
+  s_7652af8820cf26::t_6379db9e4b877f 14,666-686
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "afdc9aed74f7853be88ed429f907476c393334d5",
+  "prompts": {},
+  "sessions": {
+    "s_7652af8820cf26": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "984a85a2-72af-4b12-9f30-8eec112dde44",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    }
+  }
+}
