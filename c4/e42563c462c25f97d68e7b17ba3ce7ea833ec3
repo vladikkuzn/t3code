@@ -1,0 +1,36 @@
+packages/provider-cursor/src/server/usageLimits.test.ts
+  s_76d3ead475dee7::t_667ba26ff7b662 59-67,77,86-97,106-166
+packages/provider-cursor/src/server/usageLimits.ts
+  s_76d3ead475dee7::t_dc7fc50c98c239 24,26,28-29,32,38-45,53-55,57,60-67,69,71-72,83-93,174
+packages/shared/src/usageLimits.test.ts
+  s_76d3ead475dee7::t_8dbef62840c201 130
+docs/user/usage.md
+  s_76d3ead475dee7::t_99b75626319efc 137-139
+  s_19c78dd3d6b7b2::t_948e84eb5eed58 140
+packages/shared/src/usageLimits.ts
+  s_76d3ead475dee7::t_a3072dc3766f9a 39-40,134-138
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c4e42563c462c25f97d68e7b17ba3ce7ea833ec3",
+  "prompts": {},
+  "sessions": {
+    "s_19c78dd3d6b7b2": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "agent-eaa27485-7bfa-4e27-b06c-f4c07e3ffdf0",
+        "model": "unknown"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    },
+    "s_76d3ead475dee7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b1e69cc6-1175-4105-ae30-1a2cdf132dea",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    }
+  }
+}
