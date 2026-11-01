@@ -1,0 +1,19 @@
+packages/provider-cursor/src/server/usageLimits.test.ts
+  s_e143d034dc1c09::t_9ad93195412581 26,68-120,159-193,195-208
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "31986f2df13d653e953e6e813c9db4316061bdd8",
+  "prompts": {},
+  "sessions": {
+    "s_e143d034dc1c09": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6bb812b4-4ff9-4f60-bd5b-8188913333fb",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    }
+  }
+}
