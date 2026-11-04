@@ -1,0 +1,19 @@
+apps/mobile/src/features/settings/scheduledTaskDraft.test.ts
+  s_50b4d7767d839a::t_63dc59baaeba7c 187-190
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "134e74dabc25a90bcd5f4a9de9916a6a945c8491",
+  "prompts": {},
+  "sessions": {
+    "s_50b4d7767d839a": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "agent-2cf8d15b-e1e5-4182-91c0-1a80128ffb77",
+        "model": "unknown"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    }
+  }
+}
