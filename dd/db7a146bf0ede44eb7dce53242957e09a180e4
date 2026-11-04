@@ -1,0 +1,30 @@
+packages/contracts/src/orchestratorMcp.ts
+  s_50b4d7767d839a::t_9c31ed4ebf2edd 70
+apps/server/src/scheduledTasks/Schedule.ts
+  s_50b4d7767d839a::t_bbccd332e86b1a 97
+  s_50b4d7767d839a::t_ee249f9dc14fac 32-52
+apps/server/src/mcp/toolkits/orchestrator/tools.ts
+  s_50b4d7767d839a::t_af30d97033e025 161
+packages/contracts/src/scheduledTask.ts
+  s_50b4d7767d839a::t_4be2f91d00e6f6 46-49,51-60
+apps/server/src/scheduledTasks/Schedule.test.ts
+  s_50b4d7767d839a::t_cd5eb27e7cbbb1 137-152
+apps/server/src/provider/agentContextBudget.json
+  s_50b4d7767d839a::t_c80cda82bdec7e 4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "dddb7a146bf0ede44eb7dce53242957e09a180e4",
+  "prompts": {},
+  "sessions": {
+    "s_50b4d7767d839a": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "agent-2cf8d15b-e1e5-4182-91c0-1a80128ffb77",
+        "model": "unknown"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    }
+  }
+}
