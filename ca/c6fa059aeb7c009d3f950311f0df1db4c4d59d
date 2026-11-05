@@ -1,0 +1,1307 @@
+apps/server/src/provider/agentContextBudget.json
+  s_50b4d7767d839a::t_f488f96b6c5f12 4
+apps/web/src/components/settings/ScheduledTasksSettings.tsx
+  s_50b4d7767d839a::t_7d6166b5fb76f8 22,51,156,1157-1162,1166-1167,1171-1173,1182-1192,1194-1213,1215-1220,1247-1248,1421,1548-1553
+.vscode/extensions.json
+  s_50b4d7767d839a::t_a545d482e60454 2
+.vscode/settings.json
+  s_50b4d7767d839a::t_2be5a75a63784c 8-9
+.vscode/tsdk/tsgo
+  s_50b4d7767d839a::t_778b5dd5c8338f 1-11
+AGENTS.md
+  s_50b4d7767d839a::t_789db63e2dc5c3 103
+apps/desktop/src/app/DesktopApp.ts
+  s_50b4d7767d839a::t_8e441287779c74 2,46-50,316,321-322
+apps/desktop/src/app/DesktopCliCommand.test.ts
+  s_50b4d7767d839a::t_19aed5a0d89c58 2,32-38,51,126-127,142,176,178,212,214,234,236
+apps/desktop/src/app/DesktopCliCommand.ts
+  s_50b4d7767d839a::t_0dc4dd39c259ec 5,69-71,111,114,119,143-146,153,248
+apps/desktop/src/app/DesktopConfig.ts
+  s_50b4d7767d839a::t_94fa32029d1aae 11
+apps/desktop/src/app/DesktopManagedPolicy.ts
+  s_50b4d7767d839a::t_24058a95b4d432 59
+apps/desktop/src/app/DesktopPreReadyPlatform.test.ts
+  s_50b4d7767d839a::t_ab8590d9b4709e 60,152-157,183-189
+apps/desktop/src/app/DesktopPreReadyPlatform.ts
+  s_50b4d7767d839a::t_c1d7f7c4aa5d0c 5,9,15,55-60,65,90,92,124-129
+apps/desktop/src/backend/DesktopBackendConfiguration.test.ts
+  s_50b4d7767d839a::t_769446eb2b2a30 5,258,261,688-709,711,713-719,730-759,761,763-771
+apps/desktop/src/backend/DesktopBackendConfiguration.ts
+  s_50b4d7767d839a::t_e75b40501507f6 5,9,566,638,646,663,729,748,751,813-815
+apps/desktop/src/backend/DesktopLocalEnvironmentAuth.test.ts
+  s_50b4d7767d839a::t_4fd88fb1ec7f65 1,84,155,162-165,212
+apps/desktop/src/backend/DesktopLocalEnvironmentAuth.ts
+  s_50b4d7767d839a::t_ac1cc7d1d66acb 8,71,98-100
+apps/desktop/src/electron/ElectronProtocol.ts
+  s_50b4d7767d839a::t_0fbf0fed6465a3 219
+apps/desktop/src/ipc/channels.ts
+  s_50b4d7767d839a::t_dca6404f0e0130 93
+apps/desktop/src/ipc/methods/preview.ts
+  s_50b4d7767d839a::t_38a13660293347 12,197-205,445
+apps/desktop/src/ipc/methods/sshEnvironment.ts
+  s_50b4d7767d839a::t_a109cf64d99e39 37-42,51-54,57,78,80-85
+apps/desktop/src/ipc/methods/window.ts
+  s_50b4d7767d839a::t_3af39f4ef25bf3 317-322,339-346,348-360
+apps/desktop/src/permissions/MacPermissions.ts
+  s_50b4d7767d839a::t_6c52ff458e992b 5,22-30,41-51
+apps/desktop/src/preload.ts
+  s_50b4d7767d839a::t_331f54a83864cb 351-352
+apps/desktop/src/preview/BrowserImport/BrowserImport.ts
+  s_50b4d7767d839a::t_62393620f50ecf 95-103,108,113,179-180,195-198
+apps/desktop/src/preview/DesktopBrowserHost.test.ts
+  s_50b4d7767d839a::t_965fa3b8c44b7a 147-184
+apps/desktop/src/preview/DesktopBrowserHost.ts
+  s_50b4d7767d839a::t_0f0df9a8139085 90,123-125,463-475,514-521,541
+apps/desktop/src/preview/Manager.ts
+  s_50b4d7767d839a::t_a5d66cebd1255b 1688,1897,2351-2365,3327,3533,3674
+apps/desktop/src/snapShot/DesktopSnapShot.test.ts
+  s_50b4d7767d839a::t_7c3c97a73f90c5 1875-1877
+apps/desktop/src/snapShot/DesktopSnapShot.ts
+  s_50b4d7767d839a::t_31943e6711863a 97-98,172-182,185,784-785,1084-1092,1107-1110,1220-1229,1273-1298,1320-1334,1522-1525,1619-1624,1662-1663
+apps/desktop/src/snapShot/HyprlandSnapShot.ts
+  s_50b4d7767d839a::t_0c36e42d5ea89f 174,178
+apps/desktop/src/snapShot/KdeSnapShot.ts
+  s_50b4d7767d839a::t_7ed904795463aa 218
+apps/desktop/src/snapShot/linuxCaptureSession.ts
+  s_50b4d7767d839a::t_929d6c12e41b40 5,12-17
+apps/desktop/src/ssh/DesktopSshEnvironment.ts
+  s_50b4d7767d839a::t_623d0078ede68d 26,78-79,84
+apps/desktop/src/window/DesktopWindow.ts
+  s_50b4d7767d839a::t_f27259547079a7 8,43-51,593-596
+apps/desktop/src/wsl/DesktopWslEnvironment.ts
+  s_50b4d7767d839a::t_5964610349788c 12,1145-1146
+apps/desktop/vite.config.ts
+  s_50b4d7767d839a::t_8e91247ee1bb67 44,46
+apps/mobile/app.config.ts
+  s_50b4d7767d839a::t_963660d28d05e8 10-11
+apps/mobile/modules/t3-composer-editor/ios/T3ComposerEditorView.swift
+  s_50b4d7767d839a::t_ff6b686e68bcd7 27,448,494,505,658,661-672,917-925,1139,1156
+apps/mobile/modules/t3-composer-editor/tests/ios/main.swift
+  s_50b4d7767d839a::t_fdda782736fd95 1-110
+apps/mobile/modules/t3-composer-editor/tests/run-ios.sh
+  s_50b4d7767d839a::t_4e9015d2d00b7f 1-37
+apps/mobile/modules/t3-native-controls/ios/T3NativeControlsModule.swift
+  s_50b4d7767d839a::t_c37799ccb9cc33 69-70,85-89
+apps/mobile/modules/t3-native-controls/ios/T3NativeFilePresentation.swift
+  s_50b4d7767d839a::t_ceb315cbbecf4f 11-12,15-45,51-55,61,66-75,88,90-96,99-148,150-155,158-163,165,167-231,236,284-288,295-298
+apps/mobile/package.json
+  s_50b4d7767d839a::t_b9d1440c63ee0c 50-51,153
+apps/mobile/src/components/ComposerEditor.ios.test.tsx
+  s_50b4d7767d839a::t_bb0b91bdc7155e 1-192
+apps/mobile/src/components/ComposerEditor.tsx
+  s_50b4d7767d839a::t_0c53fef24135e4 24,61,184
+apps/mobile/src/components/ComposerToolbar.tsx
+  s_50b4d7767d839a::t_a655a756318479 2,152,156-161,164-175,177-185,187-194,196-204
+apps/mobile/src/components/FilePreview.ios.tsx
+  s_50b4d7767d839a::t_0f9e4af4788fa8 3,5,15,21,25-27,34-36,46-66,78-89
+apps/mobile/src/components/FilePreview.tsx
+  s_50b4d7767d839a::t_49c928589f37c9 9-13,19,47,106-110,113
+apps/mobile/src/components/FilePreviewModal.test.tsx
+  s_50b4d7767d839a::t_569283b476cc65 1-140
+apps/mobile/src/components/FilePreviewModal.tsx
+  s_50b4d7767d839a::t_8827be57e5736f 1,4,17,25-30,34-37,41,44-45,47-52,61-65,67,78-82,93-113,118,120-142,154,159-161,171
+apps/mobile/src/components/FilePreviewModal.types.ts
+  s_50b4d7767d839a::t_f026e23d8fef4e 26-27,30-44
+apps/mobile/src/components/MediaImagePreview.tsx
+  s_50b4d7767d839a::t_856d129a8fe548 1,9,14,22,24,29,46-55,60
+apps/mobile/src/components/PdfPreview.android.tsx
+  s_50b4d7767d839a::t_e0dca799393b40 34-37
+apps/mobile/src/connection/environment-cache-store.test.ts
+  s_50b4d7767d839a::t_a856e3566d6630 255
+apps/mobile/src/connection/environment-cache-store.ts
+  s_50b4d7767d839a::t_2365cbe6a190f5 57,63,84
+apps/mobile/src/connection/migration.ts
+  s_50b4d7767d839a::t_642a572a0e8ade 90-91,95-102
+apps/mobile/src/connection/platform.ts
+  s_50b4d7767d839a::t_0705a1e1b3d9f0 13,124-126,192,210,223,230-231,238-241,261,270
+apps/mobile/src/connection/storage.ts
+  s_50b4d7767d839a::t_0d6dcd29c3bdc8 62-76,80-88
+apps/mobile/src/features/agent-awareness/remoteRegistration.test.ts
+  s_50b4d7767d839a::t_c6cc640cfc8e62 34,220-224,402-406
+apps/mobile/src/features/agent-awareness/remoteRegistration.ts
+  s_50b4d7767d839a::t_48cc5befd53857 8,65,80-83,330,351-352,364,368,390,406,524,551-552,634,698,784,848,896,898-901,917
+apps/mobile/src/features/cloud/dpop.test.ts
+  s_50b4d7767d839a::t_1a45666d5da509 10
+apps/mobile/src/features/cloud/dpop.ts
+  s_50b4d7767d839a::t_ad08e51042ecbe 11-12,15-18,62-64,138,169,183-186,192-206
+apps/mobile/src/features/cloud/linkEnvironment.ts
+  s_50b4d7767d839a::t_77b9d6b750163d 28-35
+apps/mobile/src/features/cloud/managedRelayLayer.ts
+  s_50b4d7767d839a::t_89df6ad479493a 1,5,8-11
+apps/mobile/src/features/devices/DevicePreviewRouteScreen.tsx
+  s_50b4d7767d839a::t_c7415bc9927c80 91,109,351-353,359-367
+apps/mobile/src/features/devices/device-stream.browser.test.ts
+  s_50b4d7767d839a::t_168b14d6160029 1-108
+apps/mobile/src/features/devices/device-stream.browser.ts
+  s_50b4d7767d839a::t_79ff39aeed8581 133-138,140-150
+apps/mobile/src/features/diagnostics/SettingsDiagnosticsRouteScreen.tsx
+  s_50b4d7767d839a::t_5a269dd21f4d75 9,38-45,48-51,57-59
+apps/mobile/src/features/files/ZipArchiveView.tsx
+  s_50b4d7767d839a::t_33ce3315f36719 15,72-77,96-100,104-105,122,144-148,198,201,206,228
+apps/mobile/src/features/files/sourceHighlightingState.ts
+  s_50b4d7767d839a::t_7fdb6cafa3e576 3,19-22
+apps/mobile/src/features/files/useFileTreeEntries.ts
+  s_50b4d7767d839a::t_9bc00c4611f27e 5,15-16,279
+apps/mobile/src/features/home/useThreadListActions.ts
+  s_50b4d7767d839a::t_1ba9883473656d 311
+apps/mobile/src/features/projects/AddProjectScreen.logic.ts
+  s_50b4d7767d839a::t_f28cdfa59623ba 3-19
+apps/mobile/src/features/projects/AddProjectScreen.tsx
+  s_50b4d7767d839a::t_2c8f68f87752cc 20,100-103,120,298-302,308,415,927,967-976,1390-1394,1397-1398,1503-1504
+apps/mobile/src/features/pull-requests/PullRequestDescription.tsx
+  s_50b4d7767d839a::t_691ac370f31df6 8,29,70-73
+apps/mobile/src/features/pull-requests/PullRequestMarkdown.tsx
+  s_50b4d7767d839a::t_3172df8d440a1c 2,34,102-109,111,113,119,123-141,155,188
+apps/mobile/src/features/pull-requests/PullRequestRouteScreen.tsx
+  s_50b4d7767d839a::t_384e5a99647ac1 36,297,325-326,422,531-532,638-639,790
+apps/mobile/src/features/pull-requests/usePullRequestDescription.ts
+  s_50b4d7767d839a::t_419318ff2cff3a 1-65
+apps/mobile/src/features/pull-requests/usePullRequestDiff.test.tsx
+  s_50b4d7767d839a::t_a52c6ee72ac794 3,35-36,40-42
+apps/mobile/src/features/pull-requests/usePullRequestList.test.tsx
+  s_50b4d7767d839a::t_c1cf1f6f0925e1 26-30,45-49
+apps/mobile/src/features/pull-requests/usePullRequestList.ts
+  s_50b4d7767d839a::t_8a1e9e076a7e3b 134-145
+apps/mobile/src/features/settings/ClaudeAccounts.tsx
+  s_50b4d7767d839a::t_a6d9b556f21ede 1,3-15,17-28,30-114,116-145,147-172,175-179,182-238,241-249
+apps/mobile/src/features/settings/SettingsProviderAccountsRouteScreen.tsx
+  s_50b4d7767d839a::t_6909ea0f26df05 37-38,70-73,84-122
+apps/mobile/src/features/settings/SettingsScheduledTasksRouteScreen.tsx
+  s_50b4d7767d839a::t_27ff5c4f2152a2 14,114-119,820,905,1043-1073
+apps/mobile/src/features/settings/SettingsServerControlsRouteScreen.tsx
+  s_50b4d7767d839a::t_97376fd605c440 440-449
+apps/mobile/src/features/settings/claude-accounts.test.ts
+  s_50b4d7767d839a::t_1fb9b778e36112 1-117
+apps/mobile/src/features/settings/claude-accounts.ts
+  s_50b4d7767d839a::t_943ea99f6dfb4e 1-75
+apps/mobile/src/features/settings/environmentUpdateCheck.ts
+  s_50b4d7767d839a::t_be78e45037cf30 4,14-21,23-26,44-49
+apps/mobile/src/features/settings/scheduledTaskDraft.ts
+  s_50b4d7767d839a::t_2ccf23ba966b48 1,8,260,292,321,340
+apps/mobile/src/features/settings/settings-search.ts
+  s_50b4d7767d839a::t_9dd9719e177dd7 78-79
+apps/mobile/src/features/sharing/incoming-share-storage.ts
+  s_50b4d7767d839a::t_8246ba56130eb7 21-22,78
+apps/mobile/src/features/threads/FreshSessionNotice.tsx
+  s_50b4d7767d839a::t_22c6773cd9d48b 1-20
+apps/mobile/src/features/threads/McpAppWebView.tsx
+  s_50b4d7767d839a::t_d6a33a5b0b5a74 72-75,324-325,334,355,358,363,427,446-447,449,456-457
+apps/mobile/src/features/threads/QuestionAttachments.tsx
+  s_50b4d7767d839a::t_08a42a4bff7ebc 10,67-78,210-211,215-218
+apps/mobile/src/features/threads/ThreadComposer.tsx
+  s_50b4d7767d839a::t_b824a180866255 218-219,566
+apps/mobile/src/features/threads/ThreadDetailScreen.tsx
+  s_50b4d7767d839a::t_88d2b97ce0322a 132,177,894-902,1651-1653,1817-1821
+apps/mobile/src/features/threads/ThreadFeed.tsx
+  s_50b4d7767d839a::t_6ed17f1a24dd74 3733-3741
+apps/mobile/src/features/threads/ThreadMarkdownImage.test.tsx
+  s_50b4d7767d839a::t_6d265d6a86e2e7 164-205
+apps/mobile/src/features/threads/ThreadMarkdownImage.tsx
+  s_50b4d7767d839a::t_ec043317755e2a 5,36-38,77-79
+apps/mobile/src/features/threads/ThreadQueueControl.tsx
+  s_50b4d7767d839a::t_01821ab36ebda4 241-244
+apps/mobile/src/features/threads/UsageLimitRecoveryCard.test.tsx
+  s_50b4d7767d839a::t_57b0fe89c988d3 3-7,16-21,24-25,43-47,54,59-133
+apps/mobile/src/features/threads/UsageLimitRecoveryCard.tsx
+  s_50b4d7767d839a::t_c815878f6568d4 6-11,13,15-16,41-46,49-50,54-56,89-115,117-123,126-177
+apps/mobile/src/features/threads/thread-list-v2-items.tsx
+  s_50b4d7767d839a::t_9b3e2cd10a3d2e 76,834-836,852-857,863-864,912-995,1510
+apps/mobile/src/features/threads/threadListV2.test.ts
+  s_50b4d7767d839a::t_daf15272d180ac 17,26,29,39,41,106-152,214-232,235,239-240,242,1776-1804
+apps/mobile/src/features/threads/threadListV2.ts
+  s_50b4d7767d839a::t_cda1dec04d8d13 33,138-173,186
+apps/mobile/src/features/threads/use-composer-command-menu.test.ts
+  s_50b4d7767d839a::t_6b1dfcf67892cd 97-115
+apps/mobile/src/features/threads/use-composer-command-menu.ts
+  s_50b4d7767d839a::t_04adeff0d01307 107-108,146,148-156,159,240,262-263,367,601-607
+apps/mobile/src/lib/attachmentDocument.ts
+  s_50b4d7767d839a::t_14226470f9ddb3 13,61-68,75-79,85
+apps/mobile/src/lib/composerImagePreview.ts
+  s_50b4d7767d839a::t_41327df376dcf8 4,35-43,61-64,66-68
+apps/mobile/src/lib/hot-swappable-atom-runtime.ts
+  s_50b4d7767d839a::t_d1fdd329e65b48 51
+apps/mobile/src/lib/localAttachmentPreview.ts
+  s_50b4d7767d839a::t_7c7a278f4dd25f 7,88-95,104-113
+apps/mobile/src/lib/markdownDocument.ts
+  s_50b4d7767d839a::t_e766ad552e9e2d 282
+apps/mobile/src/lib/markdownHtml.test.ts
+  s_50b4d7767d839a::t_43603a8a9598a0 119-147
+apps/mobile/src/native/EnrichedMarkdownText.tsx
+  s_50b4d7767d839a::t_7ac0402238c994 340-341
+apps/mobile/src/native/ProjectChipIconImages.tsx
+  s_50b4d7767d839a::t_52273d3fa0f43f 3,72-80,82-87
+apps/mobile/src/native/SelectableMarkdownText.types.ts
+  s_50b4d7767d839a::t_4622dd84c39581 79-87
+apps/mobile/src/native/T3ComposerEditor.ios.tsx
+  s_50b4d7767d839a::t_9566e73e99e47c 43,49,56,66,145,152-153,225-235,251,280-281,284-286,292,295-296,300,338,346,360,370
+apps/mobile/src/native/T3ComposerEditor.tsx
+  s_50b4d7767d839a::t_e00a1377565baf 21
+apps/mobile/src/native/T3ComposerEditor.types.ts
+  s_50b4d7767d839a::t_99b892b3fde8fd 61-65
+apps/mobile/src/native/composerEditorRevision.ts
+  s_50b4d7767d839a::t_e7695b812d18d7 15-16,18-23
+apps/mobile/src/native/voiceTranscription.android.ts
+  s_50b4d7767d839a::t_17c92b3d6c390a 76-79,83-84
+apps/mobile/src/native/voiceTranscription.ios.ts
+  s_50b4d7767d839a::t_38260efcf85e8a 1,13-14,24,28,51-54,67-71
+apps/mobile/src/persistence/mobile-database.ts
+  s_50b4d7767d839a::t_079e3355595fe6 2,119,169-171,181,184-186,337-342,346
+apps/mobile/src/persistence/mobile-preferences.ts
+  s_50b4d7767d839a::t_8bdcf6d949bbbf 28,152-153,171,423-425,538-557,564
+apps/mobile/src/persistence/mobile-secure-storage.ts
+  s_50b4d7767d839a::t_f3bac40cd2b5c2 29
+apps/mobile/src/persistence/mobile-storage.ts
+  s_50b4d7767d839a::t_a1e63b316a107c 14,97,122-124,187-189,195-197
+apps/mobile/src/state/acknowledged-thread-messages.ts
+  s_50b4d7767d839a::t_532860e1623a9f 3,55-69
+apps/mobile/src/state/assets.ts
+  s_50b4d7767d839a::t_9eb2427c6d81cc 13,15,148-155,160-163,165-182,186-188
+apps/mobile/src/state/composer-attachment-uploads.ts
+  s_50b4d7767d839a::t_4903a26fe531bb 4,35-36,170
+apps/mobile/src/state/thread-outbox-model.ts
+  s_50b4d7767d839a::t_afefac7d6824bd 59-60,94-97
+apps/mobile/src/state/thread-outbox.test.ts
+  s_50b4d7767d839a::t_c0211b7cfd64c2 332-333
+apps/mobile/src/state/thread-task-permissions.test.ts
+  s_50b4d7767d839a::t_0c82d0c68c5458 22,38-40,61,77-80,153-154,194-196,270-338,418
+apps/mobile/src/state/threadOutboxDelivery.permissions.test.ts
+  s_50b4d7767d839a::t_2070b915b649c9 154,502-550
+apps/mobile/src/state/threadOutboxDelivery.test.ts
+  s_50b4d7767d839a::t_ede9bff7672574 1-4,150,371-396
+apps/mobile/src/state/threadOutboxDelivery.ts
+  s_50b4d7767d839a::t_671959f738d7b1 19,452,877-907,937
+apps/mobile/src/state/use-composer-drafts.ts
+  s_50b4d7767d839a::t_3ca57e24e3de89 24,107-141,396-397,406-407,441-446,478,658,1110,1544-1552,1798,1824-1829,1849,1890,1902,2082,2092,2099-2100
+apps/mobile/src/state/use-thread-composer-state.ts
+  s_50b4d7767d839a::t_a01b20fb987cf4 6,18,53-56,75,80,85,246-253,560-572,691-692,694-714,732-737,741,752
+apps/mobile/tsconfig.json
+  s_50b4d7767d839a::t_9bd612ba935877 2,4-29
+apps/mobile/vite.config.ts
+  s_50b4d7767d839a::t_2be6b3766cd52d 30,34,47,59,82,106
+apps/server/integration/transferBudgetV2.integration.test.ts
+  s_50b4d7767d839a::t_adbeddedc04283 30,457-460,462-463
+apps/server/package.json
+  s_50b4d7767d839a::t_9997d4982e0609 23,37
+apps/server/scripts/acp-mock-agent.ts
+  s_50b4d7767d839a::t_8e264089b57805 46-48,518,556,1853-1857
+apps/server/scripts/record-codex-app-server-replay-fixture.ts
+  s_50b4d7767d839a::t_ac6bc2ca07d235 16-17,1491-1501,1503,1507-1508
+apps/server/scripts/record-fx-acp-replay-fixture.ts
+  s_50b4d7767d839a::t_fb087649e2a5f0 16-17,37,328-338,340,377,473,491,493,495,506-507,509,515,517
+apps/server/scripts/record-grok-acp-replay-fixture.ts
+  s_50b4d7767d839a::t_1ed9e8cc55ae36 9-10,38,376-381,383,417,535-536,558-560
+apps/server/scripts/record-kiro-acp-replay-fixture.ts
+  s_50b4d7767d839a::t_2cd090a90b7e14 15-16,412-420,422,559,568-569
+apps/server/scripts/verify-background-live.ts
+  s_50b4d7767d839a::t_1448fed5fe6206 1
+apps/server/src/assets/AssetAccess.test.ts
+  s_50b4d7767d839a::t_ebc9d8353241b6 28,123-125
+apps/server/src/assets/AssetAccess.ts
+  s_50b4d7767d839a::t_715bfdca9cbb30 50-51,859-865,882-883,885,887
+apps/server/src/assets/AssetSigner.ts
+  s_50b4d7767d839a::t_a219e3b9241ef1 1-13
+apps/server/src/assets/AttachmentUpload.test.ts
+  s_50b4d7767d839a::t_de345bb1d5c5ed 1,21,35-36,157,169
+apps/server/src/assets/AttachmentUpload.ts
+  s_50b4d7767d839a::t_a39a872a79242f 30-31,109-112,115,128-129,133,135,206
+apps/server/src/auth/McpOAuth.ts
+  s_50b4d7767d839a::t_81d2970751bb5d 39,264-266,269,275,278-281,284-287,289,298,350,361,413,417-420,512
+apps/server/src/auth/PairingGrantStore.test.ts
+  s_50b4d7767d839a::t_47a13b1ef91237 185-187,191-195
+apps/server/src/auth/PairingGrantStore.ts
+  s_50b4d7767d839a::t_ecdc903f9d692c 15,316,318-322,446
+apps/server/src/auth/PayloadSigner.ts
+  s_50b4d7767d839a::t_af96ebda78458e 1-59
+apps/server/src/auth/ReusableDevAuth.ts
+  s_50b4d7767d839a::t_c3ea0989cacb05 1,4,31
+apps/server/src/auth/RpcAuthorization.ts
+  s_50b4d7767d839a::t_0fbb061d21c16b 54
+apps/server/src/auth/ServerSecretStore.test.ts
+  s_50b4d7767d839a::t_c77e5883487ca5 95-101
+apps/server/src/auth/SessionStore.test.ts
+  s_50b4d7767d839a::t_1c4e93c5f32f8a 22-23,371-373,376,378-379
+apps/server/src/auth/SessionStore.ts
+  s_50b4d7767d839a::t_e60afb7c5befa8 27,498-500,683,795,882,897
+apps/server/src/auth/http.test.ts
+  s_50b4d7767d839a::t_d57deadc298762 97
+apps/server/src/auth/utils.ts
+  s_50b4d7767d839a::t_d2c08699ad5147 7,11,84-90
+apps/server/src/cli/app.test.ts
+  s_50b4d7767d839a::t_9f1aa7dcb915d9 44-53,243-244
+apps/server/src/cli/sshHelper.ts
+  s_50b4d7767d839a::t_6f841ae5ca81b1 101
+apps/server/src/cli/uninstall.test.ts
+  s_50b4d7767d839a::t_4249dac7bfc644 3,51-54
+apps/server/src/cloud/CloudLink.lifecycle.test.ts
+  s_50b4d7767d839a::t_4ebd9e1534686b 16,165-170,209
+apps/server/src/cloud/CloudLink.test.ts
+  s_50b4d7767d839a::t_216b3ae9caf900 13,123-129,311-319
+apps/server/src/cloud/CloudLink.ts
+  s_50b4d7767d839a::t_b60a154d654b8e 44-45,97,340-342,526-527,608,613-625,950-959,1449,1455,1493-1505,1551,1557,1600-1612
+apps/server/src/cloud/ConnectReachability.test.ts
+  s_50b4d7767d839a::t_0a803d5179b5a3 3,7-18,20-21,23-25,28-29,43-44,63-68,79-84,107-380
+apps/server/src/cloud/ConnectReachability.ts
+  s_50b4d7767d839a::t_bd390708cb6920 9,17,19,33,38-42,45,134-137,145,148,222-237,239,245-272,305-366,370-372,379-388
+apps/server/src/cloud/ManagedEndpointRuntime.test.ts
+  s_50b4d7767d839a::t_bce0e0da5df4e6 4-5,85,96-99,406-408,411-432,436-442,468,474,491,584-616
+apps/server/src/cloud/ManagedEndpointRuntime.ts
+  s_50b4d7767d839a::t_c32580c09df48a 2-3,6,58,77-84,103-104,232-235,257-258,265-273,748,849-865,881,884,895,910
+apps/server/src/cloud/bootService.test.ts
+  s_50b4d7767d839a::t_dbd966d491f956 627
+apps/server/src/cloud/bootService.ts
+  s_50b4d7767d839a::t_bf5fe300c2ce92 896
+apps/server/src/cloud/environmentKeys.test.ts
+  s_50b4d7767d839a::t_b8514e6cd1ad7e 11-15,55-60
+apps/server/src/cloud/environmentKeys.ts
+  s_50b4d7767d839a::t_15a9b836afba8f 1-3,5-6,8,100-114,116-154
+apps/server/src/cloud/http.test.ts
+  s_50b4d7767d839a::t_9cf500d21ddfdd 16,26,28,56,82,117-124,131-138,140-151,153,156,158-160,163-181,185-192,194-215,217-231,233,255-258,264-266,270-274,278,282-283,285-288,290-291
+apps/server/src/compileCache.ts
+  s_50b4d7767d839a::t_54882360adeb04 3,5-10,12-21
+apps/server/src/device/AgentDeviceShim.ts
+  s_50b4d7767d839a::t_1be8ddc4f2804f 1
+apps/server/src/device/AgentDeviceTarget.test.ts
+  s_50b4d7767d839a::t_ae21e909133542 80,84
+apps/server/src/device/DeviceService.test.ts
+  s_50b4d7767d839a::t_5a432f45c2fc82 5,17,42,321,368-422,602-675
+apps/server/src/device/DeviceService.ts
+  s_50b4d7767d839a::t_2aec25b1edcc38 84-85,87-88,90,93,105,1361-1373
+apps/server/src/device/SshDeviceHost.test.ts
+  s_50b4d7767d839a::t_ac708b04ff4b35 389-504
+apps/server/src/device/SshDeviceHost.ts
+  s_50b4d7767d839a::t_1f85b80ecda2bd 9,33-43,93-135,156-158
+apps/server/src/device/deviceToolMaintenance.ts
+  s_50b4d7767d839a::t_aad42bb4158816 1
+apps/server/src/device/localSshDeviceHost.ts
+  s_50b4d7767d839a::t_5939b499e5d91f 8,49-52
+apps/server/src/environment/ServerEnvironment.ts
+  s_50b4d7767d839a::t_334db7f1dc16d1 272-273
+apps/server/src/git/GitManager.ts
+  s_50b4d7767d839a::t_05c5dc731d8f7d 4,1102-1106
+apps/server/src/guest/GuestShareService.test.ts
+  s_50b4d7767d839a::t_34d53a09a2e724 83
+apps/server/src/guest/GuestShareService.ts
+  s_50b4d7767d839a::t_ace1a348899b55 37-38,230-238,245-252,260-261,272-280
+apps/server/src/http.ts
+  s_50b4d7767d839a::t_106940de049244 329-332
+apps/server/src/mcp/AcpMcpStdioBridge.ts
+  s_50b4d7767d839a::t_810c4b300446ee 2,7,9,16-21,24,26-31,113-115,132-134,142-146,286-287,290
+apps/server/src/mcp/McpHttpServer.test.ts
+  s_50b4d7767d839a::t_65723adf25edd3 1322
+apps/server/src/mcp/McpSessionRegistry.testkit.ts
+  s_50b4d7767d839a::t_dc55e730b8b458 22
+apps/server/src/mcp/OrchestratorMcpService.test.ts
+  s_50b4d7767d839a::t_8cd187b9b539e1 16,2780-2781,2790-2792,2809,2812-2817,2844-2899
+apps/server/src/mcp/OrchestratorMcpService.ts
+  s_50b4d7767d839a::t_315c0307d5a9b2 61,270,2014-2018,2081-2092,2112-2123,3167
+apps/server/src/mcp/toolkits/attachment/handlers.ts
+  s_50b4d7767d839a::t_30dccd8dc7e7d5 9,47-48,57
+apps/server/src/mcp/toolkits/core.test.ts
+  s_50b4d7767d839a::t_19c5ea086a3386 1,1018
+apps/server/src/mcp/toolkits/project/handlers.ts
+  s_50b4d7767d839a::t_855f521d7c4643 74
+apps/server/src/mcpApps/McpAppRequests.test.ts
+  s_50b4d7767d839a::t_4bd2a99a2f4325 2,18,141-146,170-174,193-217
+apps/server/src/mcpApps/McpAppRequests.ts
+  s_50b4d7767d839a::t_54f634474d69bb 67-72,121,151,164
+apps/server/src/observability/EventLoopMonitor.ts
+  s_50b4d7767d839a::t_5fe6dbc0152535 6,38,153-154,161-167,210-220
+apps/server/src/observability/HeapSnapshot.ts
+  s_50b4d7767d839a::t_72d3a4dd1eab19 10,14-22,29-32
+apps/server/src/observability/RpcInstrumentation.ts
+  s_50b4d7767d839a::t_768b5171c0d7eb 27
+apps/server/src/orchestration-v2/Adapters/AcpAdapterV2.test.ts
+  s_50b4d7767d839a::t_a32ca71b549e34 39,518-601,4011-4161
+apps/server/src/orchestration-v2/Adapters/AntigravityAdapterV2.test.ts
+  s_50b4d7767d839a::t_a39509ba2a1ded 53,173,221,292,457,707,951,1086,1162
+apps/server/src/orchestration-v2/Adapters/AntigravityAdapterV2.ts
+  s_50b4d7767d839a::t_cb40f40a4a6fde 276-277
+apps/server/src/orchestration-v2/Adapters/ClaudeAdapterV2.test.ts
+  s_50b4d7767d839a::t_36e125c9fb926a 56,919-922,1045-1048,1358-1361,1549-1552,1939-1942,2450-2453,2792-2795,3125-3129,3252-3255,3283-3289,4954-5528,10379-10382,10580-10583,12785-12788,15655-15658,15833-15836,16014-16017,16213-16216,16360-16363
+apps/server/src/orchestration-v2/Adapters/ClaudeAdapterV2.testkit.ts
+  s_50b4d7767d839a::t_da3d63b69bb083 848-852
+apps/server/src/orchestration-v2/Adapters/ClaudeAdapterV2.ts
+  s_50b4d7767d839a::t_03225607541048 2-6,50,77-83,135,159,564-583,724-881,1288-1291,1486-1519,1587-1590,4427-4428,4893-4901,4925-4932,7382-7482,9725-9730,9737-9739,10938,10978,11838-11916
+apps/server/src/orchestration-v2/Adapters/ClaudeAgentSdkQueryRunner.test.ts
+  s_50b4d7767d839a::t_2e0c67f6e06d14 87,113,300-331
+apps/server/src/orchestration-v2/Adapters/CodexAdapterV2.test.ts
+  s_50b4d7767d839a::t_72aa85d99d0dcd 483-484,1240,1298,5619-5653,5656-5664,5670,5690-5709,5757,5794,5832-5844,5864-5874,5885-5890
+apps/server/src/orchestration-v2/Adapters/CodexAdapterV2.ts
+  s_50b4d7767d839a::t_67260299787764 1151-1152,1161-1176,1720,4499,4501,5846,5886
+apps/server/src/orchestration-v2/ClaudeAutomaticDelivery.integration.test.ts
+  s_50b4d7767d839a::t_1dd66d717073af 172-175
+apps/server/src/orchestration-v2/DelegatedCompletionDelivery.test.ts
+  s_50b4d7767d839a::t_07ee8493fb2a57 30,50,54-55,159-164,1383-1627,2403-2507
+apps/server/src/orchestration-v2/Orchestrator.control-reads.test.ts
+  s_50b4d7767d839a::t_dd685f65641ca4 562-569,594-595,1550-1635
+apps/server/src/orchestration-v2/Orchestrator.ts
+  s_50b4d7767d839a::t_b431738a1fc7a7 48,481-484,705-709,1002-1058,1060,1063,1069-1070,1870-1878,1881-1885,1889-1892,1947-1955,1964-1969,1992,2022,2030,2036,2241,2333-2335,2436,2478,2796-2798,2812-2833,2848,2874-2878,3618-3622,3626,5311,5321,5323-5330,5850-5856,5956-5957,5962,6148-6150,6269,6459-6468,6471,6475,6501,6505-6513,6519-6521,6529,6531,6543,6552,6574,6593,6597,6653,6735,6853-6880,7167,8207,9016-9031,9158-9169,9591-9604,9839-9846,11625-11627,14492-14494
+apps/server/src/orchestration-v2/ProjectSettingsUpgrade.integration.test.ts
+  s_50b4d7767d839a::t_ffbf5e8353f959 161
+apps/server/src/orchestration-v2/ProjectionSettlement.test.ts
+  s_50b4d7767d839a::t_f0e01d778813a0 8,24-28,144-212
+apps/server/src/orchestration-v2/ProjectionStore.test.ts
+  s_50b4d7767d839a::t_0f0e3016395ad6 1227,1274-1284,2026-2245,2460,6608-6647
+apps/server/src/orchestration-v2/ProjectionStore.ts
+  s_50b4d7767d839a::t_7c82eb1200ae8f 562-565,1562,1566,1575-1594,6051-6077,6088,6241-6242,6772,6775-6788,7255-7266,7433
+apps/server/src/orchestration-v2/ProviderEventIngestor.test.ts
+  s_50b4d7767d839a::t_8419593c2aba07 77
+apps/server/src/orchestration-v2/ProviderSessionManager.test.ts
+  s_50b4d7767d839a::t_5118e0690cc6ea 638
+apps/server/src/orchestration-v2/ProviderTurnControlService.test.ts
+  s_50b4d7767d839a::t_2e9b86732b7437 223
+apps/server/src/orchestration-v2/ProviderTurnStartService.test.ts
+  s_50b4d7767d839a::t_ff039e233bc6f3 305,570,1264-1266,1270,1274-1279
+apps/server/src/orchestration-v2/ProviderTurnStartService.ts
+  s_50b4d7767d839a::t_7628c5bd218b5a 298,704
+apps/server/src/orchestration-v2/SteeringCompletion.integration.test.ts
+  s_50b4d7767d839a::t_0bece98450ae40 1514,1525,1631-1632,1646
+apps/server/src/orchestration-v2/ThreadFork.execution.test.ts
+  s_50b4d7767d839a::t_043e8ace6629ec 962-981,988-992,1138
+apps/server/src/orchestration-v2/ThreadForkService.test.ts
+  s_50b4d7767d839a::t_95379a620c708f 296,303-320
+apps/server/src/orchestration-v2/ThreadLaunchService.test.ts
+  s_50b4d7767d839a::t_de3715ff4072b4 524-538
+apps/server/src/orchestration-v2/ThreadManagementService.ts
+  s_50b4d7767d839a::t_8afb8cbbb36da5 149-150,426,825-829,834,838,842,845,849,863,899,1548
+apps/server/src/orchestration-v2/ThreadSettlementService.test.ts
+  s_50b4d7767d839a::t_b53417d5fa786b 9,1591-1621
+apps/server/src/orchestration-v2/ThreadSettlementService.ts
+  s_50b4d7767d839a::t_83123c6e6f4194 180-187
+apps/server/src/orchestration-v2/UsageLimitRecoveryWorker.ts
+  s_50b4d7767d839a::t_35435ddbb8fba0 76
+apps/server/src/orchestration-v2/WorktreeBranchSync.test.ts
+  s_50b4d7767d839a::t_8399140396f304 1-111
+apps/server/src/orchestration-v2/WorktreeBranchSync.ts
+  s_50b4d7767d839a::t_ab45c3ebf62163 1-84
+apps/server/src/orchestration-v2/http.ts
+  s_50b4d7767d839a::t_d2e719bdfd0725 38-39,251,253-254
+apps/server/src/orchestration-v2/legacy/LegacyV1Cutover.integration.test.ts
+  s_50b4d7767d839a::t_df4e4ead8f656e 2,18,405-435,587-619,621-637,639-642,705-722,747-748,892-907,916,918-919,938,940-941,964-965,967-971,982-984,1016-1030,1052,1091-1117,1144-1147
+apps/server/src/orchestration-v2/runtimeLayer.test.ts
+  s_50b4d7767d839a::t_0f702be0988063 428-429,1621-1666,8522-8528
+apps/server/src/orchestration-v2/runtimeLayer.ts
+  s_50b4d7767d839a::t_0e967fcd449e64 1,372-374
+apps/server/src/orchestration-v2/testkit/ProviderReplayHarness.ts
+  s_50b4d7767d839a::t_66e1a612364595 344
+apps/server/src/orchestration-v2/testkit/ProviderSwitch.integration.test.ts
+  s_50b4d7767d839a::t_26fafab379fcb7 2770-3059
+apps/server/src/orchestration-v2/threadHistoryPaging.test.ts
+  s_50b4d7767d839a::t_ec1501fdb878ab 5,821-883,907-946
+apps/server/src/orchestration-v2/threadHistoryPaging.ts
+  s_50b4d7767d839a::t_ff4481c758bd4d 8,88-93,678,680
+apps/server/src/peer/PeerLinkRequests.test.ts
+  s_50b4d7767d839a::t_81dd95c2e0e421 485-509,561-568,577-578
+apps/server/src/peer/PeerLinks.testkit.ts
+  s_50b4d7767d839a::t_e250b812273753 111
+apps/server/src/persistence/Migrations.ts
+  s_50b4d7767d839a::t_d23310ac7623c0 85,168
+apps/server/src/persistence/Migrations/080_ScheduledTaskThreadMode.ts
+  s_50b4d7767d839a::t_c0217d6e4df21a 1-9
+apps/server/src/persistence/initializeV2Database.test.ts
+  s_50b4d7767d839a::t_96e43193eb7c8a 14,128-129
+apps/server/src/persistence/initializeV2Database.ts
+  s_50b4d7767d839a::t_06edbe6bb4183e 17-18,63-72,83-87
+apps/server/src/persistence/reconcileV2PreviewMigration.test.ts
+  s_50b4d7767d839a::t_6096e9a9d9b09d 62,165
+apps/server/src/preview/DesktopBrowserChannel.test.ts
+  s_50b4d7767d839a::t_641ca62995468a 1-67
+apps/server/src/preview/DesktopBrowserChannel.ts
+  s_50b4d7767d839a::t_42ad171fd7c562 47-48,65-66,90,131,137-139,143,234
+apps/server/src/preview/ServerBrowser.test.ts
+  s_50b4d7767d839a::t_506f9d5c99180a 324,383,388,461,2333-2401
+apps/server/src/preview/ServerBrowser.ts
+  s_50b4d7767d839a::t_38eb8da71db508 150-158,480,1046-1049,1226-1229,1233-1237,1239-1242,1410-1418,1422-1445,1451,1458-1461,1501,1595-1597,1600,1696-1699,1702-1705,1808-1811,1825-1828,1843-1846,1925-1927,1932-1936,1944-1947,1950-1954,1984-1986,1998-2001,2020-2022,2025,2038-2048,2051-2055,2060-2064,2108-2112,2125-2128,2139-2142,2144-2147,2156-2159,2172-2175,2183-2187,2578
+apps/server/src/preview/ServerBrowserPage.ts
+  s_50b4d7767d839a::t_c116479ef48321 22,27-28,35-43,45,51-57,61-65,70-73,76-79,81-84,131-136,246-249,252-256,399-402,694-699,777-780,832-835,893-896,908-911,917-921,947-950
+apps/server/src/preview/SessionControl.ts
+  s_50b4d7767d839a::t_7a101e736d8712 1-17,77-81,93-94,116-119,123-126,183,192-194
+apps/server/src/project/AgentSessionJson.test.ts
+  s_50b4d7767d839a::t_5e2fcdb94e5f38 51
+apps/server/src/project/AgentSessionJson.ts
+  s_50b4d7767d839a::t_1ec8004e6f495b 1,44-47,157-159
+apps/server/src/project/AgentSessionScanner.test.ts
+  s_50b4d7767d839a::t_c4c71368e070d8 25,31,61,65-70,1970-1992,1994-1996,2000-2001
+apps/server/src/project/AgentSessionScanner.ts
+  s_50b4d7767d839a::t_101195d959d35f 49-57,1029-1031,1083-1097,1102-1109
+apps/server/src/project/ManagedProjectFolders.test.ts
+  s_50b4d7767d839a::t_fc42d67c07cf99 5,310-317,348,421-424
+apps/server/src/provider/AgentContextBudget.test.ts
+  s_50b4d7767d839a::t_ff2e9ee17597be 10,51
+apps/server/src/provider/AntigravityAuth.ts
+  s_50b4d7767d839a::t_7e166934adb827 215,547
+apps/server/src/provider/AntigravityInstallation.ts
+  s_50b4d7767d839a::t_37ace4a1ad52bc 500-503
+apps/server/src/provider/ClaudeCapabilitiesProbe.test.ts
+  s_50b4d7767d839a::t_25676783477fcf 7,80
+apps/server/src/provider/ClaudeProvider.ts
+  s_50b4d7767d839a::t_79785e5bd68b15 16,339-347,373-391,402-408
+apps/server/src/provider/CodexChatGptAuth.test.ts
+  s_50b4d7767d839a::t_b8e865a74df677 17,47-63,116-117,183-196,298-301,668-678,1643-1649
+apps/server/src/provider/CodexChatGptAuth.ts
+  s_50b4d7767d839a::t_c35ebc546dbc57 1,17-21,101-107,178,218-267,530-534,537,580-582,585-587,609,691-703,1017-1021,1023,1025
+apps/server/src/provider/CodexManagedErrors.test.ts
+  s_50b4d7767d839a::t_756280d5dd6c74 15,62-110
+apps/server/src/provider/CodexManagedErrors.ts
+  s_50b4d7767d839a::t_2f4918b3e79412 52-62,65-115
+apps/server/src/provider/CodexManagedRuntime.test.ts
+  s_50b4d7767d839a::t_539f072a024e4f 98,106-107
+apps/server/src/provider/CodexProvider.ts
+  s_50b4d7767d839a::t_eeee96678d8479 577
+apps/server/src/provider/Drivers/CodexDriver.ts
+  s_50b4d7767d839a::t_3567644b04a002 4,105
+apps/server/src/provider/Drivers/antigravityUsageReader.ts
+  s_50b4d7767d839a::t_dc3e6066aa6be3 417-420
+apps/server/src/provider/ProviderInstanceRegistry.test.ts
+  s_50b4d7767d839a::t_5a2deb82e0f7d2 881,902-903,910-914
+apps/server/src/provider/ProviderInstanceRegistry.ts
+  s_50b4d7767d839a::t_dabcf8928caa34 63-65,161-165,244,315,350-356,362-364,375,389-394,409,439,476-478,482,521-524
+apps/server/src/provider/ProviderInstanceRegistryHydration.test.ts
+  s_50b4d7767d839a::t_127534334c2067 6-7,14-15,23,26,150-213
+apps/server/src/provider/ProviderInstanceRegistryHydration.ts
+  s_50b4d7767d839a::t_58743a26d22eaf 11-12,127-135,140,147-156,209-211
+apps/server/src/provider/acp/AcpJsonRpcConnection.test.ts
+  s_50b4d7767d839a::t_e4ad66b7dacfe7 37-46,435-436
+apps/server/src/provider/acp/AntigravityTurnOutcome.ts
+  s_50b4d7767d839a::t_3d2a04d79f64fa 11,45-55,57-71,160-178,198-201
+apps/server/src/provider/antigravityAuthSupport.ts
+  s_50b4d7767d839a::t_921941cbd712ea 233-241,272-275,286-289
+apps/server/src/provider/documentTextWorker.ts
+  s_50b4d7767d839a::t_1396275ad8312b 32
+apps/server/src/provider/model-manifest.json
+  s_50b4d7767d839a::t_e6c6c181459cbb 3,28
+apps/server/src/provider/providerMaintenanceRunner.ts
+  s_50b4d7767d839a::t_470645ad8883f0 81-87
+apps/server/src/pullRequest/PullRequestService.test.ts
+  s_50b4d7767d839a::t_8c3344fca70469 3986,3991,3993,3998
+apps/server/src/relay/AgentAwarenessRelay.test.ts
+  s_50b4d7767d839a::t_0fc963009a4744 31,206,281
+apps/server/src/relay/AgentAwarenessRelay.ts
+  s_50b4d7767d839a::t_78d65b9303ad51 19,45,266-267,366,478
+apps/server/src/scheduledTasks/RelayDeliveryProof.ts
+  s_50b4d7767d839a::t_653865522e5536 10,20,40,57,63-64
+apps/server/src/scheduledTasks/ScheduledTaskService.test.ts
+  s_50b4d7767d839a::t_03199280e17f52 598-794,844,855-858
+apps/server/src/scheduledTasks/ScheduledTaskService.ts
+  s_50b4d7767d839a::t_5899e374323f61 25,28,33-34,126-129,196-208,217,391,458-459,514,556,634,659,684-691,829-847,944,963,1005-1010,1295-1311,1400-1401,2005-2007,2122,2127
+apps/server/src/scheduledTasks/ScheduledTaskService.webhook.test.ts
+  s_50b4d7767d839a::t_eadf5751cd1bd3 185-186
+apps/server/src/scheduledTasks/webhookRoute.test.ts
+  s_50b4d7767d839a::t_78f05cb224fda2 1,70,105
+apps/server/src/scheduledTasks/webhookVerification.test.ts
+  s_50b4d7767d839a::t_92d29cea745ab9 1,4,6,17-49,51-70
+apps/server/src/scheduledTasks/webhookVerification.ts
+  s_50b4d7767d839a::t_d5ffdc3b715dbc 2-9,11-22,24-48
+apps/server/src/secrets/SecretRequests.ts
+  s_50b4d7767d839a::t_184200ffa35080 16,18,80-92,127,157-159,175,183,283,307
+apps/server/src/server.ts
+  s_50b4d7767d839a::t_1e7d5101907bb0 4-5,724
+apps/server/src/serverRuntimeStartup.test.ts
+  s_50b4d7767d839a::t_0561468e786d5d 204
+apps/server/src/serviceLauncher.test.ts
+  s_50b4d7767d839a::t_ace07341e9ce91 9,383
+apps/server/src/sourceControl/SourceControlRepositoryService.ts
+  s_50b4d7767d839a::t_e01bad34d39b28 491
+apps/server/src/storageCleanup.ts
+  s_50b4d7767d839a::t_edb4a6ac12dcca 70-78,353-358
+apps/server/src/terminal/NodePtyAdapter.ts
+  s_50b4d7767d839a::t_f66fc2749e2b0a 27-35,146-160
+apps/server/src/terminal/OutputProtocol.ts
+  s_50b4d7767d839a::t_a254aeaa939731 53
+apps/server/src/textGeneration/AntigravityTextGeneration.test.ts
+  s_50b4d7767d839a::t_00b5ae2dd763ec 118
+apps/server/src/textGeneration/ClaudeTextGeneration.test.ts
+  s_50b4d7767d839a::t_45a3c0a2642bc7 78-100,105
+apps/server/src/usage/UsageService.test.ts
+  s_50b4d7767d839a::t_ec7fba9df8bf6a 59-72,1278-1298,1337-1359,1364
+apps/server/src/vcs/GitVcsDriver.test.ts
+  s_50b4d7767d839a::t_e12becd8fa8274 280-283
+apps/server/src/vcs/GitVcsDriver.ts
+  s_50b4d7767d839a::t_c5ee3f00829743 916,918,1211
+apps/server/src/vcs/GitVcsDriverCore.test.ts
+  s_50b4d7767d839a::t_087992253411ae 269-276,4067-4076,4479,4843,5042
+apps/server/src/vcs/GitVcsDriverCore.ts
+  s_50b4d7767d839a::t_ecebdd97ab605a 44,979,4734
+apps/server/src/vcs/VcsStatusBroadcaster.test.ts
+  s_50b4d7767d839a::t_a82f68c9684aca 210-211,223-227,251-257,266-269,401,403,408,420-421,423-427,969
+apps/server/src/vcs/VcsStatusBroadcaster.ts
+  s_50b4d7767d839a::t_5794147f6dc86d 208-211,252-255,277,281-285,289-291,340-342,361,560,772
+apps/server/src/vcs/removeEmptyDirectory.ts
+  s_50b4d7767d839a::t_97905cc81c2923 5-14,22-25
+apps/server/src/workspace/WorkspaceEntries.test.ts
+  s_50b4d7767d839a::t_b54184928cab5c 792-816
+apps/server/src/workspace/WorkspaceEntries.ts
+  s_50b4d7767d839a::t_f34ff39f0905f5 67-70
+apps/server/src/ws.test.ts
+  s_50b4d7767d839a::t_6a4c2bc519cf80 38,737,796,1041
+apps/server/src/ws.ts
+  s_50b4d7767d839a::t_8a2286ef86e3f6 265-268,568,576-580,2126-2135,3550-3563,3568
+apps/web/src/browser/HostedBrowserWebview.tsx
+  s_50b4d7767d839a::t_bd40d769d9d4b2 138-140,168,295-302
+apps/web/src/browser/browserViewportActions.ts
+  s_50b4d7767d839a::t_57a0416b70f1c0 3,19-24,58
+apps/web/src/browser/openFileInPreview.ts
+  s_50b4d7767d839a::t_7b49ca327451c6 15,38,40-41,43-46,52-53,71
+apps/web/src/browser/useOpenLink.ts
+  s_50b4d7767d839a::t_1fb94d196e11cb 16,49
+apps/web/src/cloud/cloudLinkState.ts
+  s_50b4d7767d839a::t_30d112fff4c0b2 5,10-11,14,17-19,23-25,27,29,31-33,37-39,43-45,47-49,52,68-71
+apps/web/src/cloud/dpop.ts
+  s_50b4d7767d839a::t_292620a64f214f 1-2,5,16-21,29-31,54,77,98,117,121-124,134-155
+apps/web/src/cloud/linkEnvironment.test.ts
+  s_50b4d7767d839a::t_23e9ec2612b153 19,29,31,38-44,99-113,115-152,154-165,203,205,223-232,234-239
+apps/web/src/cloud/linkEnvironment.ts
+  s_50b4d7767d839a::t_8fe8db045b21b6 5-6,22,25,38-47,183,188-242,244-245,248-257,259,263-264,270-280,282,288-289,293-301,309,319,325,332-333,349-350,352,371-388,410-430
+apps/web/src/cloud/linkEnvironmentAtoms.ts
+  s_50b4d7767d839a::t_46f51d7f69b9e7 8,11-12,21-22,29,32-33,37,40-41,48
+apps/web/src/cloud/managedRelayLayer.ts
+  s_50b4d7767d839a::t_bf4a0a912db00e 1,5,7-10
+apps/web/src/cloud/useCloudLinkController.browser.test.tsx
+  s_50b4d7767d839a::t_5ba9a2564e081f 41,76-78,80,82-84,99,112
+apps/web/src/cloud/useCloudLinkController.ts
+  s_50b4d7767d839a::t_d7a725e97fb594 8,24,27-29,31,57,65,70,73,76-79,81-82,107,112-114,119,121,124,138,153,162,183,198,203,206,217,222,233
+apps/web/src/components/AddProjectToMachineDialog.tsx
+  s_50b4d7767d839a::t_57407384197396 6,116-119
+apps/web/src/components/ChatMarkdown.browser.test.tsx
+  s_50b4d7767d839a::t_83e32f1005c91a 12,323-325
+apps/web/src/components/ChatMarkdown.tsx
+  s_50b4d7767d839a::t_611a9bc1d967d0 9,188,715,1028,1040,1044,1207
+apps/web/src/components/ChatView.logic.test.ts
+  s_50b4d7767d839a::t_12463c29dbe061 1080,1130-1142
+apps/web/src/components/ChatView.logic.ts
+  s_50b4d7767d839a::t_6039ab296ac344 7,1414-1415,1425,1429-1432,1440,1444
+apps/web/src/components/ChatView.tsx
+  s_50b4d7767d839a::t_40788afcac2452 48-49,319,322,324-325,2515-2520,2523,2550,2614-2618,2626,2636,2941,3660-3662
+apps/web/src/components/CommandPalette.tsx
+  s_50b4d7767d839a::t_1b0ccd65c4da91 13-14,642-646,1948-1961,2002-2006,2014,2046-2050,2058
+apps/web/src/components/ComposerPromptEditorTiptap.input.browser.test.tsx
+  s_50b4d7767d839a::t_feec6f584ce9be 12-13,20,154-184,186-214,247-302,343-592,740-742,745-751,754-756,758-759,769-779
+apps/web/src/components/ComposerPromptEditorTiptap.tsx
+  s_50b4d7767d839a::t_eb321107a8abaf 61-65,650,652-668,672-673,675-681,774,777,1224-1228,1240-1248,1276,1281,1315-1330,1371-1372,1527,1597,1815-1825
+apps/web/src/components/GitActionsControl.logic.test.ts
+  s_50b4d7767d839a::t_4ef95e178459ec 254,274,282,287
+apps/web/src/components/GitActionsControl.logic.ts
+  s_50b4d7767d839a::t_a958f50a21d5c9 432-433,443-454
+apps/web/src/components/GitActionsControl.tsx
+  s_50b4d7767d839a::t_6137b7d00e9c53 1052-1058,1642-1657
+apps/web/src/components/ProjectComboboxRow.tsx
+  s_50b4d7767d839a::t_f82ca88d670d22 1-18
+apps/web/src/components/ProjectEnvironmentBadge.tsx
+  s_50b4d7767d839a::t_a6b1b43f691a50 31
+apps/web/src/components/Sidebar.logic.test.ts
+  s_50b4d7767d839a::t_bd6e0086cd2516 287-293
+apps/web/src/components/Sidebar.logic.ts
+  s_50b4d7767d839a::t_89311e38cf9a79 820,842-844,875-877,880,915
+apps/web/src/components/Sidebar.tsx
+  s_50b4d7767d839a::t_ab8737d3693002 173,628-629,3024-3026,3028-3035,3126,3135-3168
+apps/web/src/components/chat/ChatComposer.tsx
+  s_50b4d7767d839a::t_701eb8ed4d922f 255,386-387,1156,1886-1895
+apps/web/src/components/chat/ComposerFooterControls.tsx
+  s_50b4d7767d839a::t_0a5e240a6d4ba2 11
+apps/web/src/components/chat/ComposerFreshSession.tsx
+  s_50b4d7767d839a::t_7d71ae77df4893 1-16
+apps/web/src/components/chat/ContextWindowMeter.logic.test.ts
+  s_50b4d7767d839a::t_a1bbbe17dd46fd 4
+apps/web/src/components/chat/ContextWindowMeter.tsx
+  s_50b4d7767d839a::t_ee0ec01bd7d41e 2-3
+apps/web/src/components/chat/McpAppFrame.tsx
+  s_50b4d7767d839a::t_8563def3f1571b 43-46,257,276-277,282,302,308-309,311,346,364-365,367
+apps/web/src/components/chat/QueuedRunsControl.tsx
+  s_50b4d7767d839a::t_507a9b26270533 116-120,136,156,173-176,197,278
+apps/web/src/components/chat/ThreadDetailsUsage.tsx
+  s_50b4d7767d839a::t_e5cb0a03accf9e 19-20
+apps/web/src/components/chat/ThreadErrorBanner.tsx
+  s_50b4d7767d839a::t_535837317d6c4d 17,99-105
+apps/web/src/components/chat/ThreadRelationshipsControl.browser.test.tsx
+  s_50b4d7767d839a::t_310d4842a2c337 12-21,46-48,68-69,362-395
+apps/web/src/components/chat/ThreadRelationshipsControl.tsx
+  s_50b4d7767d839a::t_faf6953a880f5a 80,503-527,535,710-717
+apps/web/src/components/chat/TimelineMinimap.tsx
+  s_50b4d7767d839a::t_e567204d9c1d76 118,121
+apps/web/src/components/chat/TimelineUserMessageRow.tsx
+  s_50b4d7767d839a::t_bd020ba58d6063 41,255
+apps/web/src/components/chat/UsageLimitRecoveryBanner.test.tsx
+  s_50b4d7767d839a::t_5fefb227ec236e 12
+apps/web/src/components/chat/UsageLimitRecoveryBanner.tsx
+  s_50b4d7767d839a::t_77cfcba89473a2 8-11,15-16,21,25,35,37-55,59-75
+apps/web/src/components/chat/V2LifecycleRow.tsx
+  s_50b4d7767d839a::t_2f349c37d2dfd2 46,601-605
+apps/web/src/components/chat/composerSlashCommandSearch.ts
+  s_50b4d7767d839a::t_9221181a3e4142 15,26-29
+apps/web/src/components/chat/freshSessionArms.ts
+  s_50b4d7767d839a::t_21ad5798a9f021 2,6-7,9-13,16-29
+apps/web/src/components/chat/useComposerMenuItems.ts
+  s_50b4d7767d839a::t_a2e8f4da087981 69,89,265-275,304,306-308
+apps/web/src/components/chat/useComposerSend.ts
+  s_50b4d7767d839a::t_6234fa38117a28 1-2,212-213,309,724-740,743,824,900,1384,1418
+apps/web/src/components/chat/useRightPanelActions.ts
+  s_50b4d7767d839a::t_c17674814c607c 25,122
+apps/web/src/components/chat/useSideChat.ts
+  s_50b4d7767d839a::t_a522beb9ee8124 14,58-59,64-69,79
+apps/web/src/components/cloud/ConnectOnboardingDialog.tsx
+  s_50b4d7767d839a::t_822e535c74cd84 80
+apps/web/src/components/device/DeviceAndroidFoldControls.tsx
+  s_50b4d7767d839a::t_1cfed1c5d7ad2d 1,11-12,53
+apps/web/src/components/device/DeviceWorkspace.tsx
+  s_50b4d7767d839a::t_2d615b6cb527ab 1,14-15,65
+apps/web/src/components/device/deviceFold.ts
+  s_50b4d7767d839a::t_fca197ae076914 3,13-16,63-66
+apps/web/src/components/device/deviceHubAtoms.ts
+  s_50b4d7767d839a::t_626137562356b6 4,20-21,46-54,59-62,107
+apps/web/src/components/files/AttachmentFilePreview.browser.test.tsx
+  s_50b4d7767d839a::t_8e7ba3c8fc6982 8,11,19-30,71,2461-2473,2475,2477-2482,2493-2496,2506-2509,2511-2528,2530,2533,2535-2536,2539-2543,2546-2548
+apps/web/src/components/files/FilePreviewPanel.tsx
+  s_50b4d7767d839a::t_6582ae9daba3e0 120
+apps/web/src/components/files/PdfViewer.tsx
+  s_50b4d7767d839a::t_910770caec5493 24,258
+apps/web/src/components/files/office/Spreadsheet.tsx
+  s_50b4d7767d839a::t_b13e6471b07c50 1,37-38,270
+apps/web/src/components/files/office/worker-rpc.ts
+  s_50b4d7767d839a::t_f24b34c4393bd7 6-7,48-50,53-55,102,105,117,125-127,134,147,167
+apps/web/src/components/files/pdfLayout.test.ts
+  s_50b4d7767d839a::t_9906fc729ebc66 10,76-83
+apps/web/src/components/files/pdfLayout.ts
+  s_50b4d7767d839a::t_fe7a3a2ca06998 53-68
+apps/web/src/components/guest/guestTurnItemSource.ts
+  s_50b4d7767d839a::t_79a36c8b8055bf 23-25
+apps/web/src/components/preview/PreviewView.tsx
+  s_50b4d7767d839a::t_387ccb7bce9bdc 74,246
+apps/web/src/components/preview/openPreviewSession.ts
+  s_50b4d7767d839a::t_d5e69d41e06838 14,37
+apps/web/src/components/promptLinks/NewThreadLinkView.tsx
+  s_50b4d7767d839a::t_e9dd7e222503eb 2-6,205-207,217-218,225-231
+apps/web/src/components/pullRequest/PullRequestMarkdown.tsx
+  s_50b4d7767d839a::t_62f106a1fdccfa 63,71-72,98-106
+apps/web/src/components/pullRequest/PullRequestSummaryTab.browser.test.tsx
+  s_50b4d7767d839a::t_93f152b4c7c932 6-7,10-15,17-38,127-129,141-186
+apps/web/src/components/pullRequest/PullRequestSummaryTab.tsx
+  s_50b4d7767d839a::t_d4b09dd416a2e3 1,77-80,82,498-514,523-527,529-542,791,794,800,808,812,814,817
+apps/web/src/components/settings/AddProviderInstanceDialog.tsx
+  s_50b4d7767d839a::t_ccfd187101884c 6-9
+apps/web/src/components/settings/AuthorizedClientsSettings.browser.test.tsx
+  s_50b4d7767d839a::t_f6e84f6d356c9e 1-80
+apps/web/src/components/settings/AuthorizedClientsSettings.tsx
+  s_50b4d7767d839a::t_cd8402a45769d2 16,18-21,57,59-60,130-131,144,200,576,585,592-595,607-608,612-618,624-625,799,816,839
+apps/web/src/components/settings/ConnectionsSettings.logic.test.ts
+  s_50b4d7767d839a::t_76c82b68dc96a4 1,5,148-203
+apps/web/src/components/settings/ConnectionsSettings.logic.ts
+  s_50b4d7767d839a::t_0d5d0b89ca1c59 22,440-458
+apps/web/src/components/settings/ConnectionsSettings.tsx
+  s_50b4d7767d839a::t_b0848335eb4681 4,33,37,77,89-93,103,106,159,161-250,260-266,268,372-375,387-392,395,397,402-408,576-577,582-584,602-603,608-610,626-627,632-633,636,639-640,1041,1137,1140-1141,1146,1152,1158,1174-1175,1182,1184,1238,1240-1247,1257-1258,1280
+apps/web/src/components/settings/IntegrationsSettings.tsx
+  s_50b4d7767d839a::t_65232407e15d4d 43,178-183,187-188,265-267
+apps/web/src/components/settings/OpenSourceLicenses.tsx
+  s_50b4d7767d839a::t_924a70f012479f 4,25-28
+apps/web/src/components/settings/SavedEnvironmentRows.tsx
+  s_50b4d7767d839a::t_c0c650d8f2ecaa 58,60,517-523,526,535,538,549-550,561,569,590,612,668,738,742,755
+apps/web/src/components/settings/SettingsPanels.tsx
+  s_50b4d7767d839a::t_042e1dab851bfb 555-557,671,1592-1615
+apps/web/src/components/settings/SettingsScopeSentence.tsx
+  s_50b4d7767d839a::t_adab82849744d3 52
+apps/web/src/components/settings/scheduledTasksSettings.logic.ts
+  s_50b4d7767d839a::t_c76f2d3ebc7622 9,11,79,350
+apps/web/src/components/settings/settingsSearch.ts
+  s_50b4d7767d839a::t_85aa6685b45d8c 658-664
+apps/web/src/components/settings/useAvailableSettingsSearchItems.ts
+  s_50b4d7767d839a::t_f7367ead9f5981 3
+apps/web/src/components/sidebar/SidebarThreadRow.tsx
+  s_50b4d7767d839a::t_ee2f2493e4e1a9 725,727-732,966,1504
+apps/web/src/composer-logic.test.ts
+  s_50b4d7767d839a::t_44326cde8c8106 567
+apps/web/src/composer-logic.ts
+  s_50b4d7767d839a::t_f9320900e16208 21,329
+apps/web/src/composer-markdown-source.ts
+  s_50b4d7767d839a::t_3529754bd128b6 1-575
+apps/web/src/composer-rich-text-doc.ts
+  s_50b4d7767d839a::t_9654b7903af5b1 45-50,98,227-230,258-269,281,1231-1232,1247,1665-1669,1675-1676,1678
+apps/web/src/composer-rich-text.test.ts
+  s_50b4d7767d839a::t_b9d372178e5619 3,59-76
+apps/web/src/composer-rich-text.ts
+  s_50b4d7767d839a::t_89131666cc287a 15-19,22-38,43,56,59,65,91,98,102,105,112-113,117-141
+apps/web/src/connection/platform.ts
+  s_50b4d7767d839a::t_0b9230f2fae9e6 316-324
+apps/web/src/index.css
+  s_50b4d7767d839a::t_2d72698eb60c95 2449,2456-2460
+apps/web/src/lib/contextWindow.test.ts
+  s_50b4d7767d839a::t_8dd6aef94db65f 14-18
+apps/web/src/lib/resourceTelemetryState.browser.test.tsx
+  s_50b4d7767d839a::t_4f21b8e29d02db 9,67-69
+apps/web/src/state/orchestration.ts
+  s_50b4d7767d839a::t_d09cbf75a0b5f8 4,6-8
+apps/web/src/state/session.ts
+  s_50b4d7767d839a::t_c4d1c93aa45d46 95-100
+apps/web/vite.config.ts
+  s_50b4d7767d839a::t_49eb1f373e6b23 260,262
+docs/operations/development.md
+  s_50b4d7767d839a::t_ece7e292537c90 223-227
+docs/user/composer.md
+  s_50b4d7767d839a::t_4533643cf78d8d 17-29,267-272
+docs/user/devices.md
+  s_50b4d7767d839a::t_023460ccbab894 111-112
+docs/user/html-renders.md
+  s_50b4d7767d839a::t_b68b693bba7bed 13
+docs/user/managed-policy.md
+  s_50b4d7767d839a::t_8eb863677c84d0 227-230
+docs/user/project-settings.md
+  s_50b4d7767d839a::t_97df6208ba1340 89-95
+docs/user/providers-antigravity.md
+  s_50b4d7767d839a::t_0ce2a8630f5a2e 91
+docs/user/providers-claude.md
+  s_50b4d7767d839a::t_889884acacef70 27-29,63-64
+docs/user/remote-access.md
+  s_50b4d7767d839a::t_c957c9cd45abe0 372-375
+docs/user/source-control.md
+  s_50b4d7767d839a::t_362fced2b9f083 151-155,177-178
+docs/user/thread-sidebar.md
+  s_50b4d7767d839a::t_576952636550f7 303-305,329,331-333
+evals/mcp-tool-use/cases/orchestration.ndjson
+  s_50b4d7767d839a::t_fa03c2bf989bff 28,37
+evals/mcp-tool-use/cases/pull-requests.ndjson
+  s_50b4d7767d839a::t_be551a370aaf1e 24,38
+evals/mcp-tool-use/run.ts
+  s_50b4d7767d839a::t_93fb33df675f84 25,115-123,2075-2095,2419,2444-2453
+evals/package.json
+  s_50b4d7767d839a::t_e68ca69ced14dc 11
+infra/relay/migrations/postgres/20260527044716_baseline/snapshot.json
+  s_50b4d7767d839a::t_3d5565d12b6b4a 2-3,7-365,368,370-371,374,376-377,380,382-383,386,388-389,392,394-395,398,400-401,404,406-407,410-412,420,423-425,433,436-438,446,449-451,459,462-464,472,475-477,485,488-490,498,501-503,511,514-516,524,527-529,537,540-542,550,553-555,563,566-568,576,579-581,589,592-594,602,605-607,615,618-620,628,631-633,641,644-646,654,657-659,667,670-672,680,683-685,693,696-698,706,709-711,719,722-724,732,735-737,745,748-750,758,761-763,771,774-776,784,787-789,797,800-802,810,813-815,823,826-828,836,839-841,849,852-854,862,865-867,875,878-880,888,891-893,901,904-906,914,917-919,927,930-932,940,943-945,953,956-958,966,969-971,979,982-984,992,995-997,1005,1008-1010,1018,1021-1023,1031,1034-1036,1044,1047-1049,1057,1060-1062,1070,1073-1075,1083,1086-1088,1096,1099-1101,1109,1112-1114,1122,1125-1127,1135,1138-1140,1148,1151-1153,1161,1164-1166,1174,1177-1179,1187,1190-1192,1200,1203-1205,1213,1216-1218,1226,1229-1231,1239,1242-1244,1252,1255-1257,1273,1276-1278,1308,1311-1313,1329,1332-1334,1350,1353-1355,1371,1374-1376,1399,1402-1404,1434,1437-1439,1462,1465-1467,1483,1486-1488,1504,1507-1509,1525,1528-1530,1546,1549-1551,1567,1570-1572,1575,1578-1580,1583,1586-1588,1591,1594-1596,1599,1602-1604,1607,1612-1614,1620-1622,1625
+infra/relay/migrations/postgres/20260601225421_add_mobile_device_label/snapshot.json
+  s_50b4d7767d839a::t_30f657474192bb 2-3,7,9-14,16,19-36
+infra/relay/migrations/postgres/20260603035812_managed_endpoint_allocations/snapshot.json
+  s_50b4d7767d839a::t_ded8aabb04209a 2-3,7-17,19,22-27,29-33,35-47,49-53,55-59,62-275
+infra/relay/migrations/postgres/20260706061126_migration/snapshot.json
+  s_50b4d7767d839a::t_047cb8e1d14575 2-3,7,9-14,16,19-24,26,29-62
+infra/relay/migrations/postgres/20260727115225_migration/snapshot.json
+  s_50b4d7767d839a::t_72ce0a1aeed285 2-3,7-17,19,22-107
+infra/relay/migrations/postgres/20260727144838_migration/snapshot.json
+  s_50b4d7767d839a::t_4158d9d1e9b430 2-3,7-51,53-54,57-58,60
+infra/relay/migrations/postgres/20260906042516_android_devices/snapshot.json
+  s_50b4d7767d839a::t_cd0f74d2050098 2-3,7,9-14,16,19-25,27,30-54
+infra/relay/migrations/postgres/20260918175607_long_thread_ids/snapshot.json
+  s_50b4d7767d839a::t_a21635502551ec 2-3,7,9-13,15-18,20,23-27,29-32,34-37,39-43,46-50,52
+infra/relay/migrations/postgres/20260919015455_managed_endpoint_recovery/snapshot.json
+  s_50b4d7767d839a::t_eeccf535118c3e 2-3,7-14,16-19,21,24-29,31-34,36,39-44,46,49-54,56,59-124
+infra/relay/migrations/postgres/20261004061459_hold_webhooks_while_offline/snapshot.json
+  s_50b4d7767d839a::t_669ab4613c454b 2-3,7,9-14,16-19,21,24-41
+infra/relay/migrations/postgres/20261005232034_managed_endpoint_tunnel_released_at/snapshot.json
+  s_50b4d7767d839a::t_aa4a9282a80c8f 2-3,7,9-14,16-19,21,24-41
+infra/relay/migrations/postgres/20261020013101_upstream_api_pauses/snapshot.json
+  s_50b4d7767d839a::t_71f0862dd55bbf 2-3,7-17,19,22-75
+infra/relay/migrations/postgres/20261027210820_delivery_attempts_retention/snapshot.json
+  s_50b4d7767d839a::t_ef2b51e37d5e8a 2-3,7-14,16-20,22-27,29,32-37,39-43,45-48,50,53-58,60-64,66-70,72,75-80,82-86,88-92,95-132
+infra/relay/migrations/postgres/20261028062605_backfill_withdrawn_tunnel_allocations/snapshot.json
+  s_50b4d7767d839a::t_5d53fa24a34a5f 2-4,7-8
+infra/relay/package.json
+  s_50b4d7767d839a::t_46d85242dfa2a7 12,29,39
+infra/relay/scripts/android-push-watch.ts
+  s_50b4d7767d839a::t_613b63ca7f3dd8 45-57
+infra/relay/src/agentActivity/ApnsDeliveries.test.ts
+  s_50b4d7767d839a::t_edffafb07b83aa 160,575,637,702,749,817,883,939,999,1208
+infra/relay/src/agentActivity/ApnsDeliveries.ts
+  s_50b4d7767d839a::t_54d0f9b3a1f021 14,514,938,942
+infra/relay/src/agentActivity/ApnsDeliveryQueue.ts
+  s_50b4d7767d839a::t_e8d26938a53af7 6,84,116,119,180,183
+infra/relay/src/agentActivity/MobileRegistrations.test.ts
+  s_50b4d7767d839a::t_d3be70261eb9bc 169
+infra/relay/src/agentActivity/apnsDeliveryJobs.test.ts
+  s_50b4d7767d839a::t_30c979f3d07e31 1,3,15-38,40,42-48,50-59
+infra/relay/src/agentActivity/apnsDeliveryJobs.ts
+  s_50b4d7767d839a::t_34a1d9fb9c91f0 6,8-9,12,315-316,318-319,321,324-329,333-335,337-371,418,427
+infra/relay/src/auth/CloudMintSigner.ts
+  s_50b4d7767d839a::t_8f8d0d7773eacd 1-92
+infra/relay/src/auth/RelayTokens.test.ts
+  s_50b4d7767d839a::t_91c9a9291f4ba8 6-7,11,13,41-46,63,103-104,110-111,128-129,156-157,180-181
+infra/relay/src/auth/RelayTokens.ts
+  s_50b4d7767d839a::t_47c5ae966eeed2 12,19,111,116,134-154,160,179-192,194-201
+infra/relay/src/clientConfig.ts
+  s_50b4d7767d839a::t_6752806d97b6cf 48,51,109
+infra/relay/src/environments/EnvironmentConnector.test.ts
+  s_50b4d7767d839a::t_993ebbbfa82693 26,166
+infra/relay/src/environments/EnvironmentConnector.ts
+  s_50b4d7767d839a::t_814eeba26a8381 33,49,197,203,205,207,230,262,377-378,466-480,549,632-646,687
+infra/relay/src/environments/EnvironmentLinker.test.ts
+  s_50b4d7767d839a::t_f528f7b5290895 3,17,118,158
+infra/relay/src/environments/EnvironmentLinker.ts
+  s_50b4d7767d839a::t_dd6878828d31a0 13,146,152-163,191,198
+infra/relay/src/environments/EnvironmentPublishSignatures.ts
+  s_50b4d7767d839a::t_e52896c7015a7e 15,96,105-116,127,134
+infra/relay/src/hooks/HookForwarder.test.ts
+  s_50b4d7767d839a::t_a051193dee2431 7,25,111,260,266
+infra/relay/src/hooks/HookForwarder.ts
+  s_50b4d7767d839a::t_3f1861c7be9977 24,222,233
+infra/relay/src/http/Api.test.ts
+  s_50b4d7767d839a::t_1a8f82dc154eea 639-642,684-687,1466,1473
+infra/relay/src/http/Api.ts
+  s_50b4d7767d839a::t_4810b2d337eb58 396,583,589
+infra/relay/src/worker.ts
+  s_50b4d7767d839a::t_d3efe728a1722b 9,11,31,79-83,344
+infra/task-cache/package.json
+  s_50b4d7767d839a::t_45b0394a9f668e 7
+infra/task-cache/src/developerAuth.ts
+  s_50b4d7767d839a::t_2db99948a8f560 2,17
+infra/task-cache/vendor/vite-plus-remote-cache-cloudflare/src/errors.ts
+  s_50b4d7767d839a::t_ae6efcd65dd0ac 1
+oxlint-plugin-t3code/package.json
+  s_50b4d7767d839a::t_01fd491ff66fc8 6
+oxlint-plugin-t3code/test/utils.ts
+  s_50b4d7767d839a::t_f7b77a89866e83 20-34,144
+package.json
+  s_50b4d7767d839a::t_d6f1befce0195c 61
+packages/client-runtime/package.json
+  s_50b4d7767d839a::t_36fa837373cd54 234-237,362-365,529-532,536
+packages/client-runtime/src/authorization/remote.ts
+  s_50b4d7767d839a::t_7c7fad43edfe71 16,30,210
+packages/client-runtime/src/connection/errors.test.ts
+  s_50b4d7767d839a::t_ceef64cf7bee91 96-99
+packages/client-runtime/src/connection/registry.test.ts
+  s_50b4d7767d839a::t_a679a114401122 528,1422,1522,1535
+packages/client-runtime/src/device/screenshot.ts
+  s_50b4d7767d839a::t_d9d76ca25fc1d0 2,6-11,26
+packages/client-runtime/src/handoff.ts
+  s_50b4d7767d839a::t_e2c870ebb0190d 27
+packages/client-runtime/src/mcpApps/host.test.ts
+  s_50b4d7767d839a::t_813609f3e26f91 209,314
+packages/client-runtime/src/mcpApps/host.ts
+  s_50b4d7767d839a::t_5c51450d27e6d0 6,75-80,150,351
+packages/client-runtime/src/operations/commands.ts
+  s_50b4d7767d839a::t_1b129c7a437323 186-187,757,782
+packages/client-runtime/src/operations/projects.test.ts
+  s_50b4d7767d839a::t_3b6f034039b172 7-8,10,100-131
+packages/client-runtime/src/operations/projects.ts
+  s_50b4d7767d839a::t_b14f196a189866 12,211-230,239-240
+packages/client-runtime/src/platform/threadCacheEncoding.ts
+  s_50b4d7767d839a::t_6ff36949b6a530 25-28
+packages/client-runtime/src/providerInstanceIds.test.ts
+  s_50b4d7767d839a::t_03f5c1a17c0e08 1-17
+packages/client-runtime/src/providerInstanceIds.ts
+  s_50b4d7767d839a::t_31927f48128fbf 1-29
+packages/client-runtime/src/pullRequestEditing.test.ts
+  s_50b4d7767d839a::t_2c8f3bb16c05d2 14-17,209-249
+packages/client-runtime/src/pullRequestEditing.ts
+  s_50b4d7767d839a::t_e3e1b35aaed99d 52-55,59,65-103
+packages/client-runtime/src/pullRequestMarkdown.test.ts
+  s_50b4d7767d839a::t_b5b67ac531db74 14,21,25-41,61,68,75,82,89,96,103,112,119,139
+packages/client-runtime/src/pullRequestMarkdown.ts
+  s_50b4d7767d839a::t_a2b9bacef7c78c 5-11,62,68-70,73-78,83-84,86,139
+packages/client-runtime/src/relay/discovery.ts
+  s_50b4d7767d839a::t_4688cd493e6c85 108-114,259
+packages/client-runtime/src/relay/dpopProof.test.ts
+  s_50b4d7767d839a::t_3e0f9ace93e0b3 2-5,7-9,11,13-43,45-51,53-54,58,60-61,63,65-76
+packages/client-runtime/src/relay/dpopProof.ts
+  s_50b4d7767d839a::t_73432833782393 1-111
+packages/client-runtime/src/relay/index.ts
+  s_50b4d7767d839a::t_5623d61f65a450 2
+packages/client-runtime/src/relay/managedRelay.test.ts
+  s_50b4d7767d839a::t_2dd0827069b70d 39
+packages/client-runtime/src/relay/managedRelay.ts
+  s_50b4d7767d839a::t_2cd2d7b7101180 411-417,565
+packages/client-runtime/src/relay/managedRelayState.test.ts
+  s_50b4d7767d839a::t_d4fef626a5dd4b 99
+packages/client-runtime/src/relay/managedRelayState.ts
+  s_50b4d7767d839a::t_0089e12feff790 52-58,90-99
+packages/client-runtime/src/rpc/client.test.ts
+  s_50b4d7767d839a::t_fa55619556e8c9 16,350,358-360,366-371,374-375,378,380-381,386,397,399,405-413
+packages/client-runtime/src/rpc/client.ts
+  s_50b4d7767d839a::t_d8990cacfce337 239,375-379
+packages/client-runtime/src/rpc/http.ts
+  s_50b4d7767d839a::t_0e28f139175a5d 22,24-28,30,32-36,38,40-46,50,52-58,62-63,120,138,165
+packages/client-runtime/src/rpc/session.test.ts
+  s_50b4d7767d839a::t_4289c33f182d3c 11,25,280-309,317
+packages/client-runtime/src/rpc/session.ts
+  s_50b4d7767d839a::t_a6ee9624528d63 7-10,230-240
+packages/client-runtime/src/state/auth.ts
+  s_50b4d7767d839a::t_691744beceadce 5-7,10-11,17-20,86,88,91-134
+packages/client-runtime/src/state/commandPermissions.test.ts
+  s_50b4d7767d839a::t_8e7d95e45a82fa 34,393-397
+packages/client-runtime/src/state/contextWindow.test.ts
+  s_50b4d7767d839a::t_fddb13f41f29f5 1-264
+packages/client-runtime/src/state/contextWindow.ts
+  s_50b4d7767d839a::t_2f22fc58a759cf 1-319
+packages/client-runtime/src/state/entities.test.ts
+  s_50b4d7767d839a::t_03088fd31c9bf9 25,42-52
+packages/client-runtime/src/state/environmentHttpAuth.ts
+  s_50b4d7767d839a::t_9332e4a32c6977 8,12,14-15,58,107-133,143-146,250-253
+packages/client-runtime/src/state/fileMetadata.test.ts
+  s_50b4d7767d839a::t_c6ba6cd5ad323b 23,60-64,70-74
+packages/client-runtime/src/state/models.ts
+  s_50b4d7767d839a::t_d616d15584e113 161,316-319
+packages/client-runtime/src/state/orchestration.ts
+  s_50b4d7767d839a::t_d0b342871c5898 3,28,34-37,49,51-66
+packages/client-runtime/src/state/peerPairingCode.ts
+  s_50b4d7767d839a::t_8128e02dda74b3 7,26-32
+packages/client-runtime/src/state/projectCommands.test.ts
+  s_50b4d7767d839a::t_6d965875a1ebf2 24,56-60
+packages/client-runtime/src/state/pullRequests.test.ts
+  s_50b4d7767d839a::t_407228b82143a3 14,56,1366-1370,1374-1384,1386,1393-1398,1400-1439
+packages/client-runtime/src/state/pullRequests.ts
+  s_50b4d7767d839a::t_673947085daf9c 55,57-58,224-231,240-247,250-263,415
+packages/client-runtime/src/state/runtime.test.ts
+  s_50b4d7767d839a::t_34fef20d2144ef 4-5,26,41,45,1025-1082
+packages/client-runtime/src/state/session.ts
+  s_50b4d7767d839a::t_1e91fc46bdefe0 3,23,25
+packages/client-runtime/src/state/threadCommands.test.ts
+  s_50b4d7767d839a::t_36ebf0375acccc 29,100-104,501-508,514-516,520-548
+packages/client-runtime/src/state/threadCommands.ts
+  s_50b4d7767d839a::t_7a20235cf9fdc4 407-408
+packages/client-runtime/src/state/threadHistoryMerge.test.ts
+  s_50b4d7767d839a::t_86520e07ceae1e 8,226-316
+packages/client-runtime/src/state/threadHistoryMerge.ts
+  s_50b4d7767d839a::t_d47ae264b40e74 92-93,96-98
+packages/client-runtime/src/state/threadSettled.ts
+  s_50b4d7767d839a::t_9d67532e4dd829 77,82-89,96-108,147-149,181-182,184-189,192
+packages/client-runtime/src/state/threadSnoozed.test.ts
+  s_50b4d7767d839a::t_fc9191f6c4a222 2-3,35,45,96-153,247,256,337-375
+packages/client-runtime/src/state/threads-sync.test.ts
+  s_50b4d7767d839a::t_d6a995a3f258a2 320-345,389-444,644,2231
+packages/client-runtime/src/state/threads.ts
+  s_50b4d7767d839a::t_c8d9e18985bb6c 191-204,222-228,231,246-250
+packages/client-runtime/src/voice-input/controller.test.ts
+  s_50b4d7767d839a::t_23c4d9d85e12d2 123-126
+packages/client-runtime/src/voice-input/controller.ts
+  s_50b4d7767d839a::t_884d6ca45f0a93 1,10-11,177,186
+packages/client-runtime/src/voice-input/transcription.ts
+  s_50b4d7767d839a::t_f2e42d468bb45d 1-2,17-24,26-33,37-40
+packages/contracts/package.json
+  s_50b4d7767d839a::t_9bf5b28ee78a75 24
+packages/contracts/src/desktopBrowser.ts
+  s_50b4d7767d839a::t_c71a42ca0d6462 15-16
+packages/contracts/src/environment.ts
+  s_50b4d7767d839a::t_f4602bc7f2cae6 172-175
+packages/contracts/src/filesystem.ts
+  s_50b4d7767d839a::t_2dbd902afb9e07 67-68,80
+packages/contracts/src/ipc.ts
+  s_50b4d7767d839a::t_3447af45f470c1 996-1000,1173-1174
+packages/contracts/src/orchestrationV2.ts
+  s_50b4d7767d839a::t_521d624fecbf1a 708-709,1612,2449,3159-3160,3589,3714-3720,4243-4246
+packages/contracts/src/orchestratorMcp.ts
+  s_50b4d7767d839a::t_dd69200f55c762 506-511,670-675,697,740
+packages/contracts/src/providerInstance.test.ts
+  s_50b4d7767d839a::t_bbbae50d8f0ec0 1-19
+packages/contracts/src/providerInstance.ts
+  s_50b4d7767d839a::t_996ec79dc9f5d3 56
+packages/contracts/src/rpc.ts
+  s_50b4d7767d839a::t_09075f233d0111 1780-1785,2200
+packages/contracts/src/scheduledTask.ts
+  s_50b4d7767d839a::t_f777e9dd14cdf8 252-265,274,314-315
+packages/contracts/src/settings.ts
+  s_50b4d7767d839a::t_36faa1e53c436f 1318-1319,1680
+packages/effect-acp/package.json
+  s_50b4d7767d839a::t_bb3ad455e09a1e 40
+packages/effect-acp/src/agent.test.ts
+  s_50b4d7767d839a::t_391d141ae27edf 259
+packages/effect-acp/src/client.test.ts
+  s_50b4d7767d839a::t_9f61d39c6f11e8 721
+packages/effect-acp/test/fixtures/acp-mock-peer.ts
+  s_50b4d7767d839a::t_5bba3da230acf1 26-27,183,216
+packages/effect-codex-app-server/package.json
+  s_50b4d7767d839a::t_e1c25a92a49ccd 32
+packages/effect-codex-app-server/scripts/generate.ts
+  s_50b4d7767d839a::t_90e51b34aa2852 206-207,211-212
+packages/effect-codex-app-server/test/examples/codex-app-server-probe.ts
+  s_50b4d7767d839a::t_17656ea58817dd 10-11,15
+packages/provider-acp-registry/package.json
+  s_50b4d7767d839a::t_e2771d5653399e 32
+packages/provider-acp-registry/src/server/AcpRegistrySupport.test.ts
+  s_50b4d7767d839a::t_355f599509a242 94-95,98-99,132-133,136-137
+packages/provider-acp/package.json
+  s_50b4d7767d839a::t_bdb14a805b662b 44
+packages/provider-acp/src/server/AcpSessionRuntime.ts
+  s_50b4d7767d839a::t_edb4d1d3902f66 487,489,496,498,512,514
+packages/provider-acp/src/server/adapter.ts
+  s_50b4d7767d839a::t_618c4586ba7696 152-169,188,534-538,1422-1424,2289-2322,2359,2386-2395,2424,2453,6244,6855,6857-6859,6899,6935,6999,7580-7584,7780-7870,8181-8182,8324-8330
+packages/provider-acp/src/server/mcpOverAcpBridge.ts
+  s_50b4d7767d839a::t_59dc54ea8c8c2e 1,3,27-32,35,37-40,97-101,120,147-149,182-184,196-198,201,224-226,229
+packages/provider-core/package.json
+  s_50b4d7767d839a::t_20827bbcb2404f 192
+packages/provider-core/src/server/ProviderAdapter.ts
+  s_50b4d7767d839a::t_eed6d71e76f972 427-435,454,570-571
+packages/provider-core/src/server/providerAuthFlow.ts
+  s_50b4d7767d839a::t_3c718a1ab04995 224
+packages/provider-cursor/package.json
+  s_50b4d7767d839a::t_dc7d9ac2aa94bc 48
+packages/provider-cursor/src/server/CursorAgentSdk.ts
+  s_50b4d7767d839a::t_e8dedd078ccf59 360-376
+packages/provider-cursor/src/server/CursorSdk.test.ts
+  s_50b4d7767d839a::t_f8e6b8ea4a60d2 9
+packages/provider-cursor/src/server/adapter.test.ts
+  s_50b4d7767d839a::t_f8980391b487a4 119,147,161
+packages/provider-cursor/src/server/auth.ts
+  s_50b4d7767d839a::t_7a0dc61359451b 145
+packages/provider-cursor/src/server/credentialStore.test.ts
+  s_50b4d7767d839a::t_6f6511e3195d87 59,80-81,85,89-92,94,134,137
+packages/provider-cursor/src/server/credentialStore.ts
+  s_50b4d7767d839a::t_f0b5bea8a1f4d9 61
+packages/provider-cursor/src/server/sdk.test.ts
+  s_50b4d7767d839a::t_10fea22425a2ef 4
+packages/provider-cursor/src/server/textGeneration.ts
+  s_50b4d7767d839a::t_5c9299be686c8e 89-94,107-115,131-141,143-148,157-160,163-170,173-176,179-182
+packages/provider-fx/package.json
+  s_50b4d7767d839a::t_f3f8ad339cba2d 24
+packages/provider-grok/package.json
+  s_50b4d7767d839a::t_c6ed4deaf58279 28
+packages/provider-grok/src/server/adapter.ts
+  s_50b4d7767d839a::t_a5556809279047 82-83,311-313
+packages/provider-grok/src/server/xaiAcpExtension.ts
+  s_50b4d7767d839a::t_52f65a20638f40 1288-1290,1297-1300
+packages/provider-kiro/package.json
+  s_50b4d7767d839a::t_c49085f2b782d1 24
+packages/provider-muse/package.json
+  s_50b4d7767d839a::t_9f9cb69755dddb 28
+packages/provider-muse/src/server/MuseUsageHome.ts
+  s_50b4d7767d839a::t_441351da11a9d6 8,29-33
+packages/provider-muse/src/server/adapter.ts
+  s_50b4d7767d839a::t_8c2765eee3a7fc 67,1073-1076,1731-1734,2268-2271
+packages/provider-muse/src/server/modelCatalog.ts
+  s_50b4d7767d839a::t_96b877bb893a71 7-12,121-124
+packages/provider-muse/src/server/sdk.ts
+  s_50b4d7767d839a::t_ca5ec8444bda0c 16-25,85-88,94-97,231-236
+packages/provider-muse/src/server/textGeneration.ts
+  s_50b4d7767d839a::t_d3c6b1dd737b36 17-22,258-269
+packages/provider-muse/src/server/usage.test.ts
+  s_50b4d7767d839a::t_1e890640dff247 239-245,386-388
+packages/provider-opencode/package.json
+  s_50b4d7767d839a::t_8b0941082cf9e7 48
+packages/provider-opencode/src/server/OpenCodeRuntime.ts
+  s_50b4d7767d839a::t_72552277629a28 104-105,107-115
+packages/provider-opencode/src/server/OpenCodeServerLedger.ts
+  s_50b4d7767d839a::t_060974311bdf70 147
+packages/provider-opencode/src/server/status.ts
+  s_50b4d7767d839a::t_2245abcf33abee 9,33-38,55
+packages/provider-opencode/src/server/usageLimits.ts
+  s_50b4d7767d839a::t_75375e9b4bd19f 46-54,56-80,82-83
+packages/provider-pi/package.json
+  s_50b4d7767d839a::t_6b50f46e02f150 24
+packages/provider-pi/src/server/mcpInjection.ts
+  s_50b4d7767d839a::t_651491914a61b6 35
+packages/provider-pi/src/server/usage.ts
+  s_50b4d7767d839a::t_6b2265c7856f79 17,132,135-146,150-162
+packages/provider-testing/package.json
+  s_50b4d7767d839a::t_7832c5ff07ce39 28
+packages/provider-testing/src/fakeCli.ts
+  s_50b4d7767d839a::t_cdd3d6a1c4b482 1
+packages/secret-provider-core/package.json
+  s_50b4d7767d839a::t_fa274664442645 20
+packages/secret-provider-definitions/package.json
+  s_50b4d7767d839a::t_0d6e65347ada08 12
+packages/secret-provider-onepassword/package.json
+  s_50b4d7767d839a::t_71ae90646dd06a 16
+packages/shared/package.json
+  s_50b4d7767d839a::t_71c897721234df 22-25,466-469,536
+packages/shared/src/HostProcess.ts
+  s_50b4d7767d839a::t_6857298bc348b7 3,77-85,95-99
+packages/shared/src/Net.ts
+  s_50b4d7767d839a::t_5c7977f7567acc 7,9-12
+packages/shared/src/cloneUrl.test.ts
+  s_50b4d7767d839a::t_6ecda3726a60a2 3,141-166
+packages/shared/src/cloneUrl.ts
+  s_50b4d7767d839a::t_30ce3124de3078 1-2,51-73
+packages/shared/src/composerTrigger.ts
+  s_50b4d7767d839a::t_2a07edb51b2571 172-176
+packages/shared/src/desktopBootstrapToken.test.ts
+  s_50b4d7767d839a::t_c18ac9ff2b72c6 1-6,18-52
+packages/shared/src/desktopBootstrapToken.ts
+  s_50b4d7767d839a::t_e66c578e0fc13e 1-3,8-9,14-19,21-23,25,29-30,32-36
+packages/shared/src/managedPolicyFile.ts
+  s_50b4d7767d839a::t_a123943e5f09db 189-193,197-198,268,290,311,327
+packages/shared/src/markdownTaskList.test.ts
+  s_50b4d7767d839a::t_6d05c709f24e2a 1-72
+packages/shared/src/markdownTaskList.ts
+  s_50b4d7767d839a::t_6db320832fda90 1-94
+packages/shared/src/mcpApp.test.ts
+  s_50b4d7767d839a::t_9d990ea64ab078 10,141-148,182-188
+packages/shared/src/mcpApp.ts
+  s_50b4d7767d839a::t_4711e9e35a08d3 134-158
+packages/shared/src/mcpResponsePayloads.ts
+  s_50b4d7767d839a::t_d327429d7d5ff2 1
+packages/shared/src/nodeSqliteClient.ts
+  s_50b4d7767d839a::t_f930c965059c37 446,454,474,640,651,653
+packages/shared/src/relayClient.ts
+  s_50b4d7767d839a::t_f5ecaae16538a9 24,60-67,69-95,508-511,680
+packages/shared/src/relayJwt.test.ts
+  s_50b4d7767d839a::t_4dacf924035ebf 1,3-9,11-24,27-50,52-81
+packages/shared/src/relayJwt.ts
+  s_50b4d7767d839a::t_22b77f3d15cfba 1-2,4-8,22-23,29-31,35-39,41,45-46,51-59,65-70,72-79,81-112,117,119-132
+packages/shared/src/shell.test.ts
+  s_50b4d7767d839a::t_d1e22f900cb8ba 344,372,392,423
+packages/shared/src/socketFrameParts.ts
+  s_50b4d7767d839a::t_48ae96d0e7a872 1-81
+packages/shared/src/toolOutput.ts
+  s_50b4d7767d839a::t_465e12b7bc6fa3 12-17,220-224
+packages/source-control-azure-devops/package.json
+  s_50b4d7767d839a::t_d49d9da0d20f9b 16
+packages/source-control-bitbucket/package.json
+  s_50b4d7767d839a::t_0ff3b0179199a4 16
+packages/source-control-bitbucket/src/server/BitbucketPullRequestApi.ts
+  s_50b4d7767d839a::t_6c4b192e4068ee 830
+packages/source-control-core/package.json
+  s_50b4d7767d839a::t_a9be223e33715e 56
+packages/source-control-definitions/package.json
+  s_50b4d7767d839a::t_73c35ca00e240a 12
+packages/source-control-forgejo/package.json
+  s_50b4d7767d839a::t_d333b36738509d 16
+packages/source-control-forgejo/src/server/ForgejoCli.ts
+  s_50b4d7767d839a::t_1c6647ca786a9a 1,5,214-218,220-221,261-262
+packages/source-control-gitcafe/package.json
+  s_50b4d7767d839a::t_6c9eee4bd067e1 16
+packages/source-control-github/package.json
+  s_50b4d7767d839a::t_327ef717e6eb11 16
+packages/source-control-github/src/server/GitHubSourceControlProvider.ts
+  s_50b4d7767d839a::t_d8463473a3ab70 320-323
+packages/source-control-gitlab/package.json
+  s_50b4d7767d839a::t_1bf14ba6426b08 16
+packages/source-control-gitlab/src/server/GitLabPullRequestCli.ts
+  s_50b4d7767d839a::t_af966a96871b38 1765
+packages/source-control-testing/package.json
+  s_50b4d7767d839a::t_011442c5c5f0f1 16
+packages/ssh/package.json
+  s_50b4d7767d839a::t_80f9b11841d04b 28
+packages/ssh/src/errors.ts
+  s_50b4d7767d839a::t_7e6ed0ea09d620 1-62
+packages/ssh/src/tunnel.test.ts
+  s_50b4d7767d839a::t_917b1416dcb0f0 11,23-24,208,266,343
+packages/tailscale/package.json
+  s_50b4d7767d839a::t_f5080e253f4b13 12
+patches/react-native-image-viewing@0.2.2.patch
+  s_50b4d7767d839a::t_d2a42ce5041211 67,75,105,114-120,262
+pnpm-lock.yaml
+  s_50b4d7767d839a::t_12e9e5ef2ea5b5 329,340,354,386,399-401,413,464,480,498,529,532,613,619,622,625,640,679,685,694,703,706,745,787,797,826-827,948,1002,1249,1252,1255,1288,1291,1309,1312,1334,1340,1346,1349,1352,1355,1385,1387-1388,1395,1404,1412-1413,1416,1419,1425,1428,1431,1447,1453,1469,1472,1530,1536,1546,1549,1565,1571,1587,1593,1618,1627,1655,1667,1686,1692,1723,1732,1757,1766,1791,1803,1825,1834,1859,1868,1902,1911,1933,1942,1980,1986,2020,2026,2093,2105,2130,2139,2164,2173,2189,2195,2244,2253,2275,2284,2312,2321,2340,2349,2390,2396,2409,2415,2458,2476,2655-2657,3726-3764,4076,4233,7035,8215-8216,8218-8222,8224-8225,8228-8229,8231-8234,8236-8240,8280-8283,8286-8287,8795,10908,12307,12309,12323,12326,12329,12333,12336,12342,12354,12360,12362-12365,12372,12381,12392,12394,12400,12402,12405-12406,12409,12411,12421,12423,12426,12440,12442,12448,12453-12455,12460,13241,13243-13244,13252,13257,13259,13265-13267,13553-13584,13587,13630,13635,13922,13924,13926-13927,13930-13931,13936-13937,13942-13944,13962,14007,14012,14028,14030,14034,14056,14062,14090,14092,14103,14105,14116,14118,14128,14130,14147,14149,14151,14155,14160,14180,14187,14189,14203,14260,14262-14263,14265,14269,14276,14282,14286,14292,14296,14299-14300,14322,15441,15955,15960,16023,16040,16471,16474,16479,16481-16482,16485,16512,16516-16517,16544,16547,16554,16582,16588,16633,16895,16910,17237,17411,17413,17851-17853,17855,17952,17955,17957,18115,18122,18124,18126-18128,18135,18137-18138,18142,18145,18147,18159,18166,18173,18181,18185,18188-18189,18197,18201,18213,18220,18224,18230,18235,18241,18246,18252,18258,18262,18266,18273,18278,18287,18290,18292-18293,18303,18306,18309,18338,18341,18343,18346,18348,18357,18368,18372,18374-18375,18384,18388,18394,18396,18399,18406,18408-18410,18419,18428,18436,18448,18467,18473,18480,18488,18491-18493,18497,18501,18504-18505,18509,20458,20482,20493,20515,20979,22070,22082,22178,22183-22185,22190-22191,22193-22194,22196,22267,22270,22281,22285-22286
+pnpm-workspace.yaml
+  s_50b4d7767d839a::t_3c13da5287beef 169-170,188-190,266-269,276-279,296-305
+scripts/build-cli-archive.ts
+  s_50b4d7767d839a::t_01f6c45b6eba36 65-73,549-552
+scripts/build-desktop-artifact.ts
+  s_50b4d7767d839a::t_eaf2c6d805e880 688-696,2107,2147-2152,4118-4126
+scripts/build-npm-launcher.test.ts
+  s_50b4d7767d839a::t_0514907b0e5cde 71,134,142,377
+scripts/check-changed.ts
+  s_50b4d7767d839a::t_06e7a0742395d3 485
+scripts/mobile-behavior/device.ts
+  s_50b4d7767d839a::t_7864cded75ee90 1
+scripts/mobile-behavior/fake-fx.ts
+  s_50b4d7767d839a::t_6fee474db7e73e 1
+scripts/mobile-behavior/run.ts
+  s_50b4d7767d839a::t_bbc312b7d71334 2
+scripts/mobile-e2e/device.ts
+  s_50b4d7767d839a::t_b0477c8501a164 6,65-69,120,145-147,150-152
+scripts/package.json
+  s_50b4d7767d839a::t_3c52e2d203c7dc 6
+tsconfig.base.json
+  s_50b4d7767d839a::t_cb9ab33e2520d5 2-3,22
+tsconfig.effect.json
+  s_50b4d7767d839a::t_2a6faa33fe37f2 1-135
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "cac6fa059aeb7c009d3f950311f0df1db4c4d59d",
+  "prompts": {},
+  "sessions": {
+    "s_50b4d7767d839a": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "agent-2cf8d15b-e1e5-4182-91c0-1a80128ffb77",
+        "model": "unknown"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    }
+  }
+}
