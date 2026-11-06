@@ -1,0 +1,130 @@
+apps/server/src/provider/agentContextBudget.json
+  s_50b4d7767d839a::t_495eeb9160e847 4
+  s_50b4d7767d839a::t_7bf8aa553b20fd 2-3
+apps/mobile/src/features/settings/ThreadSettingsSections.tsx
+  s_50b4d7767d839a::t_b74a35aef64e81 271,309-310
+apps/mobile/src/features/settings/components/DatabaseStorageNotice.tsx
+  s_50b4d7767d839a::t_6a32ab72f17605 34
+apps/mobile/src/native/voiceTranscription.android.test.ts
+  s_50b4d7767d839a::t_423dca191d785d 81,85,105
+apps/mobile/src/native/voiceTranscription.ios.test.ts
+  s_50b4d7767d839a::t_1e95e932f12015 4-5,12-17,45-98,100,105-106,118-242,244-245
+apps/mobile/src/native/voiceTranscription.ios.ts
+  s_50b4d7767d839a::t_81de85684e38cd 4,16-24,48-51,55,59,66-113,117,123
+apps/server/src/mcp/toolkits/project/tools.ts
+  s_50b4d7767d839a::t_8ba4457a157c07 144
+apps/server/src/orchestration-v2/EventSink.ts
+  s_50b4d7767d839a::t_87a5a91ec25fc9 15-16,27,72-80,82-97,287,447-448,910-995,997-998
+apps/server/src/orchestration-v2/FoundationPersistence.test.ts
+  s_50b4d7767d839a::t_64cd2160b11356 30-32,34,37,333-565,3529-3557,3559,3561-3615,3617-3623
+apps/server/src/orchestration-v2/Orchestrator.ts
+  s_50b4d7767d839a::t_aa4d788302a747 3457-3469
+apps/server/src/orchestration-v2/ProjectionRecovery.test.ts
+  s_50b4d7767d839a::t_dfff711b4f1326 839-860
+apps/server/src/orchestration-v2/ProjectionStore.ts
+  s_50b4d7767d839a::t_37a66c4ddcbf7a 171,357,683-686,3138,3150,4131-4137,4188-4208,4295-4296
+apps/server/src/orchestration-v2/ProviderCommitBatch.test.ts
+  s_50b4d7767d839a::t_d8f3657047814e 1-472
+apps/server/src/orchestration-v2/ProviderCommitBatch.ts
+  s_50b4d7767d839a::t_934e63f0701c56 1-303
+apps/server/src/orchestration-v2/ProviderEventIngestor.test.ts
+  s_50b4d7767d839a::t_b1f9c908151d77 549-554
+apps/server/src/orchestration-v2/ProviderRuntimeRecoveryService.ts
+  s_50b4d7767d839a::t_31e7e6addf285d 878-921,923-925,927
+apps/server/src/orchestration-v2/ProviderSessionManager.test.ts
+  s_50b4d7767d839a::t_93c3cd4eb2c02c 3116-3136,3150-3156
+apps/server/src/orchestration-v2/ProviderSessionManager.ts
+  s_50b4d7767d839a::t_f15268d4d969ff 658-659,671-680,703,724,2133
+apps/server/src/orchestration-v2/RestartContinuation.test.ts
+  s_50b4d7767d839a::t_cc18c7b437f8ca 20-21,1267-1328
+apps/server/src/orchestration-v2/RunExecutionService.test.ts
+  s_50b4d7767d839a::t_059cdf8909c1bb 58-68,87,914,943,1154,1268,1448,1708,2121,3207,3729
+apps/server/src/orchestration-v2/RunExecutionService.ts
+  s_50b4d7767d839a::t_6c981cb8f2810c 1324-1341,1343-1346,1348-1390,1392-1521,1524,1526-1530,1532-1541,1543-1545,1547-1667
+apps/server/src/orchestration-v2/ThreadManagementService.test.ts
+  s_50b4d7767d839a::t_3bea9e8b3e8e08 562-572,577-590,592-593,598-602,604-644,646-663,675-701
+apps/server/src/orchestration-v2/ThreadManagementService.ts
+  s_50b4d7767d839a::t_68c51acc7650cc 449-450,1047-1099,1101-1114
+apps/server/src/orchestration-v2/runtimeLayer.test.ts
+  s_50b4d7767d839a::t_26d7575703a4dc 4862-4878,4884
+apps/server/src/orchestration-v2/testkit/CodexReplayFixtures.integration.test.ts
+  s_50b4d7767d839a::t_b3f5642fd56290 1-2,7-11,23-58
+apps/server/src/serverRuntimeStartup.ts
+  s_50b4d7767d839a::t_f398cb60fe894b 481
+apps/server/src/textGeneration/CodexTextGeneration.test.ts
+  s_50b4d7767d839a::t_b059c15961b6d8 57-58,72-73,107,115,130-131,352,355-359,370,372-377
+apps/web/src/components/GitActionsControl.tsx
+  s_50b4d7767d839a::t_f21c980185e122 1642-1663,1666-1676
+apps/web/src/components/settings/DatabaseStorageNotice.tsx
+  s_50b4d7767d839a::t_c53c6fac97e4ab 38
+apps/web/src/components/settings/LabsSettingsPanel.tsx
+  s_50b4d7767d839a::t_773aaeced1b17a 94,128,159,164,194
+apps/web/src/components/settings/VoiceSettingsPanel.tsx
+  s_50b4d7767d839a::t_8343c9896c0d8e 1286
+apps/web/src/components/settings/settingsLayout.tsx
+  s_50b4d7767d839a::t_7f0cea68a8aa7f 503,525,534
+apps/web/src/components/usage/UsagePage.tsx
+  s_50b4d7767d839a::t_7fb45503c2ec07 103-108,678,680,685,689
+apps/web/src/components/usage/usageProviders.test.ts
+  s_50b4d7767d839a::t_3a2df6487ce122 1-28
+apps/web/src/components/usage/usageProviders.ts
+  s_50b4d7767d839a::t_a47f68db769c68 5-6,68-82
+docs/user/composer.md
+  s_50b4d7767d839a::t_2286b2e264bcc1 209-213
+evals/README.md
+  s_50b4d7767d839a::t_499dc20e5dbf70 11
+evals/mcp-tool-use/cases/threads-vs-tasks.ndjson
+  s_50b4d7767d839a::t_52d46b7aae0239 24-27
+evals/package.json
+  s_50b4d7767d839a::t_5d8e004a96ccda 10
+evals/pr-content/README.md
+  s_50b4d7767d839a::t_3bc2ace4980133 1-13
+evals/pr-content/grade.ts
+  s_50b4d7767d839a::t_c12b0872cde76d 1-6
+evals/pr-content/run.test.ts
+  s_50b4d7767d839a::t_c5fe668667dec0 1-72
+evals/pr-content/run.ts
+  s_50b4d7767d839a::t_732273b51d7501 1-134
+oxlint-plugin-t3code/index.ts
+  s_50b4d7767d839a::t_1c1751ca56426f 3,42
+oxlint-plugin-t3code/rules/max-settings-description-length.test.ts
+  s_50b4d7767d839a::t_276bea4d5f6497 1-43
+oxlint-plugin-t3code/rules/max-settings-description-length.ts
+  s_50b4d7767d839a::t_c5b17cc54197a5 1-63
+packages/client-runtime/src/voice-input/controller.test.ts
+  s_50b4d7767d839a::t_b85e5f10c12a92 237,250-267,312,314,323-324
+packages/client-runtime/src/voice-input/controller.ts
+  s_50b4d7767d839a::t_a0aeb60f15693e 110-111,133,135-141,143-145,147-149,239,507-511,515
+packages/client-runtime/src/voice-input/transcription.ts
+  s_50b4d7767d839a::t_1bb8e52e9a9364 14-19
+packages/contracts/src/orchestrationV2.ts
+  s_50b4d7767d839a::t_44f23f98e889ed 2978
+packages/provider-core/src/server/orchestrationInstructions.ts
+  s_50b4d7767d839a::t_3c0e9be6d55862 14
+packages/provider-core/src/server/textGenerationPrompts.ts
+  s_50b4d7767d839a::t_54e03053deb07a 99,116,118,133-134
+packages/provider-opencode/src/server/adapter.test.ts
+  s_50b4d7767d839a::t_c0419da0547c66 715-718
+packages/provider-opencode/src/server/adapter.ts
+  s_50b4d7767d839a::t_852d91822945ab 1902,1904,1906,1908,1910-1911
+packages/provider-opencode/src/server/v2/adapter.ts
+  s_50b4d7767d839a::t_0ef264df85dd31 1891-1892
+vite.config.ts
+  s_50b4d7767d839a::t_cbe02b23681115 522-525
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0cd34f017d97f5920d5dde81abcd7cf32678e2cb",
+  "prompts": {},
+  "sessions": {
+    "s_50b4d7767d839a": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "agent-2cf8d15b-e1e5-4182-91c0-1a80128ffb77",
+        "model": "unknown"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    }
+  }
+}
