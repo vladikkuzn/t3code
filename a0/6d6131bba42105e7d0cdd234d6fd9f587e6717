@@ -1,0 +1,21 @@
+apps/server/src/environment/ServerEnvironment.ts
+  s_d855b984ac1cd2::t_2f3dc08f6bd704 273
+packages/contracts/src/environment.ts
+  s_d855b984ac1cd2::t_c1be66cacfb64d 171-172
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a06d6131bba42105e7d0cdd234d6fd9f587e6717",
+  "prompts": {},
+  "sessions": {
+    "s_d855b984ac1cd2": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "agent-fec1fc06-574f-449a-bb78-0ec8d0ff2f8b",
+        "model": "unknown"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    }
+  }
+}
