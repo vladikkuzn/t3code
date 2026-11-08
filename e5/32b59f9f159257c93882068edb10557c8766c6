@@ -1,0 +1,21 @@
+packages/provider-cursor/src/server/usageLimits.test.ts
+  s_76d3ead475dee7::t_d67729de28b70d 77,82-106,174-184
+packages/provider-cursor/src/server/usageLimits.ts
+  s_76d3ead475dee7::t_cce2addad29d76 38,43-53,66,68-69,88-91,96
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e532b59f9f159257c93882068edb10557c8766c6",
+  "prompts": {},
+  "sessions": {
+    "s_76d3ead475dee7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b1e69cc6-1175-4105-ae30-1a2cdf132dea",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    }
+  }
+}
