@@ -1,0 +1,44 @@
+apps/web/src/components/settings/scheduledTasksSettings.logic.test.ts
+  s_50b4d7767d839a::t_68c838ad84289e 338
+  s_50b4d7767d839a::t_e07e64fc587007 394
+apps/server/src/scheduledTasks/Schedule.test.ts
+  s_50b4d7767d839a::t_fea8cb7f6c7a3b 137-167
+  s_50b4d7767d839a::t_b12e2e8dc103a4 4
+apps/server/src/scheduledTasks/ScheduledTaskService.test.ts
+  s_50b4d7767d839a::t_00b716104f95b7 170-253
+apps/web/src/components/settings/scheduledTasksSettings.logic.ts
+  s_50b4d7767d839a::t_fe51028cd31d60 193-194
+  s_50b4d7767d839a::t_10c1b5ebeac653 306,313
+apps/server/src/scheduledTasks/Schedule.ts
+  s_50b4d7767d839a::t_5aa914d26721b4 68-69
+  s_50b4d7767d839a::t_1dc550d55e7f5d 32-54
+  s_50b4d7767d839a::t_f140610bcd6183 174,179-186
+apps/mobile/src/features/settings/scheduledTaskDraft.ts
+  s_50b4d7767d839a::t_f2782ef4eaf135 226-230,239
+apps/server/src/scheduledTasks/ScheduledTaskService.ts
+  s_50b4d7767d839a::t_0cab0bff66656d 60
+  s_50b4d7767d839a::t_42231a47484c07 1171
+apps/mobile/src/features/settings/SettingsScheduledTasksRouteScreen.tsx
+  s_50b4d7767d839a::t_2e3234b4c6f667 1425-1429
+  s_50b4d7767d839a::t_85ebc0ed577614 170,173
+apps/web/src/components/settings/ScheduledTasksSettings.tsx
+  s_50b4d7767d839a::t_8c4f19d1ea2f62 2123
+apps/mobile/src/features/settings/scheduledTaskDraft.test.ts
+  s_50b4d7767d839a::t_cf3255cfaa0ec3 186-187
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3861e4f085c02c1e4a70550706d008c6b0dd175b",
+  "prompts": {},
+  "sessions": {
+    "s_50b4d7767d839a": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "agent-2cf8d15b-e1e5-4182-91c0-1a80128ffb77",
+        "model": "unknown"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    }
+  }
+}

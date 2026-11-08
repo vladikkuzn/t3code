@@ -1,0 +1,118 @@
+apps/mobile/src/features/settings/scheduledTaskDraft.ts
+  s_4b427ce95730ef::t_7316c2bb6f9a23 111-114
+  s_94360a49b5e561::t_283cf2432eda91 149-169
+  s_94360a49b5e561::t_71507f6a008753 223-237,239-240
+  s_94360a49b5e561::t_40feac750b4757 105-106,115-121,123
+  s_94360a49b5e561::t_977533df7f59d4 283-285
+  s_94360a49b5e561::t_cf343f383a5cb2 62-64
+  s_94360a49b5e561::t_52c88cbee1dd9f 81-83
+apps/web/src/components/settings/scheduledTasksSettings.logic.ts
+  s_c43d00bc8dbae5::t_4555618375592f 185-188,192-194
+  s_c43d00bc8dbae5::t_d61f58d35bcade 326-328,330-331,341-343
+  s_c43d00bc8dbae5::t_edd25dfee740ec 300-313
+  s_c43d00bc8dbae5::t_1a1b51b00f9ce6 189-191
+  s_c43d00bc8dbae5::t_c579387fbb2123 118-172
+  s_c43d00bc8dbae5::t_e46ae6536b61e3 8
+  s_c43d00bc8dbae5::t_d5a054cae703a3 70-72
+apps/mobile/src/features/settings/scheduledTaskDraft.test.ts
+  s_4b427ce95730ef::t_59beeecbf4152e 221,224
+  s_94360a49b5e561::t_fee1ee8173d243 163-170
+  s_94360a49b5e561::t_23b4949c1bb7d6 21,23-28,30,36-62
+  s_4b427ce95730ef::t_e06d5800b85a1c 31-35
+  s_94360a49b5e561::t_e4ab5413450357 9
+  s_4b427ce95730ef::t_c9a0f26812d6b4 228
+  s_4b427ce95730ef::t_5adf5816079295 29
+  s_94360a49b5e561::t_963198714cf382 152-162,171-220,222-223,225-227,229-232
+apps/mobile/src/features/settings/scheduledTaskPresentation.ts
+  s_94360a49b5e561::t_48ee0390d79fe8 5-27,29-35
+  s_4b427ce95730ef::t_811fcad5e28b83 28
+packages/contracts/src/orchestratorMcp.ts
+  s_8cce18d27679c9::t_ecce9dd24e5715 70
+apps/web/src/components/settings/scheduledTasksSettings.logic.test.ts
+  s_c43d00bc8dbae5::t_f8e7b3845d6709 25
+  s_c43d00bc8dbae5::t_54d87bafe4ca8e 334-413
+packages/contracts/src/scheduledTask.test.ts
+  s_ca91c9cd045d58::t_08ee8786df89e5 26-69
+apps/server/src/scheduledTasks/Schedule.test.ts
+  s_ca91c9cd045d58::t_5e5493d7b82f16 162-233
+  s_ca91c9cd045d58::t_ea1b463ade3ed6 36-148
+  s_ca91c9cd045d58::t_36edbab5aa049c 7-13
+apps/server/src/scheduledTasks/Schedule.ts
+  s_ca91c9cd045d58::t_4a364f224bc3a5 90
+  s_ca91c9cd045d58::t_9ffbad2323d3c1 91-110,113
+  s_ca91c9cd045d58::t_70e28a142f33d4 13-51,66-76,81
+packages/contracts/src/scheduledTask.ts
+  s_ca91c9cd045d58::t_e16630794b7a61 52-55
+  s_ca91c9cd045d58::t_0c235f72520582 29-51,56-58,62,68
+  s_ca91c9cd045d58::t_dc3a17dca5ee13 233
+apps/mobile/src/features/settings/SettingsScheduledTasksRouteScreen.tsx
+  s_94360a49b5e561::t_f7d39e9bfc62a7 162-174
+  s_94360a49b5e561::t_727da448a5c760 1421-1427
+  s_94360a49b5e561::t_a8d29864888539 77
+  s_94360a49b5e561::t_56a77fd6d63aec 1353
+  s_94360a49b5e561::t_2481d10c7fe091 127-129
+  s_94360a49b5e561::t_65808b094efb61 1124
+  s_94360a49b5e561::t_4bb0219bdafe30 1180-1184
+  s_94360a49b5e561::t_cfa65c29eecdef 402-470
+  s_94360a49b5e561::t_4e061974941ae1 1331-1352,1354-1390
+  s_94360a49b5e561::t_fe7e6d7766874a 1404-1405
+  s_94360a49b5e561::t_0661683af54f51 767
+apps/mobile/src/features/settings/scheduled-task-editor-state.test.ts
+  s_94360a49b5e561::t_98467f903545a5 118-135
+apps/web/src/components/settings/ScheduledTasksSettings.tsx
+  s_c43d00bc8dbae5::t_4bdeea7180b5e3 2076-2086,2089-2092,2095-2194
+  s_c43d00bc8dbae5::t_69d430970390e2 2228-2229
+  s_c43d00bc8dbae5::t_bbe926213abb3d 319-348
+  s_c43d00bc8dbae5::t_a93d2e2f0df82e 101
+  s_c43d00bc8dbae5::t_6def907db30132 173-175
+  s_c43d00bc8dbae5::t_ef30d271f543fb 358
+  s_c43d00bc8dbae5::t_a0b9528f806ba0 1457-1458
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3f58dbc263e56989238a90d8449964bcf2b8031c",
+  "prompts": {},
+  "sessions": {
+    "s_4b427ce95730ef": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "agent-f6405ec6-9b37-4493-81fb-87060f822421",
+        "model": "unknown"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    },
+    "s_8cce18d27679c9": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "agent-0b9f3555-34d3-4b7f-a7c3-350d7109a482",
+        "model": "unknown"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    },
+    "s_94360a49b5e561": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "agent-b84f81d0-0895-4a20-b23e-745f2f3b4a12",
+        "model": "unknown"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    },
+    "s_c43d00bc8dbae5": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "agent-6236c86b-e50e-48fc-b3f9-49e068922d7d",
+        "model": "unknown"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    },
+    "s_ca91c9cd045d58": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "agent-a85fcb94-8e96-4245-b4b8-c558eb40b044",
+        "model": "unknown"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    }
+  }
+}

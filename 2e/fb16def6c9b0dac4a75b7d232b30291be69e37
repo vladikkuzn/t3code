@@ -1,0 +1,26 @@
+packages/contracts/src/orchestratorMcp.ts
+  s_50b4d7767d839a::t_9c31ed4ebf2edd 70
+apps/server/src/scheduledTasks/Schedule.ts
+  s_50b4d7767d839a::t_bbccd332e86b1a 97
+  s_50b4d7767d839a::t_ee249f9dc14fac 32-52
+packages/contracts/src/scheduledTask.ts
+  s_50b4d7767d839a::t_4be2f91d00e6f6 46-49,51-60
+apps/server/src/scheduledTasks/Schedule.test.ts
+  s_50b4d7767d839a::t_cd5eb27e7cbbb1 137-152
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2efb16def6c9b0dac4a75b7d232b30291be69e37",
+  "prompts": {},
+  "sessions": {
+    "s_50b4d7767d839a": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "agent-2cf8d15b-e1e5-4182-91c0-1a80128ffb77",
+        "model": "unknown"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    }
+  }
+}
