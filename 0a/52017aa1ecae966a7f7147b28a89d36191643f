@@ -1,0 +1,23 @@
+apps/server/src/mcp/OrchestratorMcpToolkit.integration.test.ts
+  s_b363d4f10faaf1::t_08866d16c1e44d 358,365,379-384,460-469,471-473,810-837
+  s_b363d4f10faaf1::t_986c474d64d225 22,470
+  s_b363d4f10faaf1::t_2aee5d76231c8c 368
+  s_b363d4f10faaf1::t_c0c16c6a2dc163 224
+  s_b363d4f10faaf1::t_eaee8ce8b12294 44,215,356-357,359-364,366-367,369,376-378,838-842
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0a52017aa1ecae966a7f7147b28a89d36191643f",
+  "prompts": {},
+  "sessions": {
+    "s_b363d4f10faaf1": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c545-597e-7e33-9986-0cec0203b4e7",
+        "model": "gpt-6.1-terra"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    }
+  }
+}
