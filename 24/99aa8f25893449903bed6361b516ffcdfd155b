@@ -1,0 +1,21 @@
+apps/server/src/orchestration-v2/Adapters/ClaudeAdapterV2.test.ts
+  s_43a7022a3c815f::t_1b531cac0d80b9 3386,8043-8165
+apps/server/src/orchestration-v2/Adapters/ClaudeAdapterV2.ts
+  s_43a7022a3c815f::t_7bb32a3e7ad5b8 5165-5174
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2499aa8f25893449903bed6361b516ffcdfd155b",
+  "prompts": {},
+  "sessions": {
+    "s_43a7022a3c815f": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "agent-5b2a8479-c4e1-4b0a-a9a7-801a52c4678e",
+        "model": "unknown"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    }
+  }
+}
