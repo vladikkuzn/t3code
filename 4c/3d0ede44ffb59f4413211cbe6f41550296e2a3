@@ -1,0 +1,55 @@
+apps/server/src/mcp/OrchestratorMcpToolkit.integration.test.ts
+  s_effe07ddd86d90::t_39b93443f696b7 12,84,369-383
+apps/server/src/orchestration-v2/ThreadManagementService.ts
+  s_effe07ddd86d90::t_f8b30a37c23711 14,467,641,648,653-654,661-662,668-672,1689
+  s_effe07ddd86d90::t_854037723450a0 71-74,452-466,638-640,642-647,649-652,655-660,663-667
+  s_effe07ddd86d90::t_86b732845fbd0c 1690-1695
+apps/server/src/orchestration-v2/ThreadManagementService.test.ts
+  s_effe07ddd86d90::t_5abc339d71f57e 6,85-86,91,115-162,168-179,181,183-184,189,192-193
+  s_effe07ddd86d90::t_f6f9644988e468 163-167,180,182,185-188,190-191,194
+evals/mcp-tool-use/cases/orchestration.ndjson
+  s_effe07ddd86d90::t_973e7bc781b502 38
+apps/server/src/mcp/OrchestratorMcpService.ts
+  s_effe07ddd86d90::t_9bfa9d769a1235 34-35,2571-2576,2581-2584,2595-2598,2666-2668
+  s_effe07ddd86d90::t_8108b4e6a58224 2643-2646
+  s_effe07ddd86d90::t_854037723450a0 169-172,2577-2580,2585-2594,2599-2634,2636-2638,2640,2642,2647-2664
+  s_effe07ddd86d90::t_eab2fddac89463 2635,2639,2641,2665,2669
+apps/server/src/mcp/toolkits/orchestrator/tools.ts
+  s_effe07ddd86d90::t_9bfa9d769a1235 27-28,101,104-108,111-114,372
+  s_effe07ddd86d90::t_854037723450a0 102-103,109-110
+apps/server/src/orchestration-v2/Orchestrator.ts
+  s_effe07ddd86d90::t_854037723450a0 418-420,14632-14639
+  s_effe07ddd86d90::t_f8b30a37c23711 14628-14631,14640-14641
+packages/contracts/src/orchestratorMcp.ts
+  s_effe07ddd86d90::t_f8b30a37c23711 251-276
+apps/server/src/mcp/toolkits/orchestrator/handlers.ts
+  s_effe07ddd86d90::t_9bfa9d769a1235 29-35
+apps/server/src/mcp/OrchestratorMcpService.test.ts
+  s_effe07ddd86d90::t_c0f44f60a0930e 1968-1977,1996-1999
+  s_effe07ddd86d90::t_476597c3926fd4 1951,1953-1956,1981-1995,2057-2059
+  s_effe07ddd86d90::t_8108b4e6a58224 1957-1967,1978,2012-2029
+  s_effe07ddd86d90::t_854037723450a0 2030-2056
+  s_effe07ddd86d90::t_ec7a377050ab93 1952,2000-2011
+  s_effe07ddd86d90::t_47a3b22e1c6d1e 1979-1980
+apps/server/src/relay/AgentAwarenessRelay.test.ts
+  s_effe07ddd86d90::t_854037723450a0 254
+  s_effe07ddd86d90::t_4fb4d81fa02429 255
+apps/server/src/provider/agentContextBudget.json
+  s_effe07ddd86d90::t_27cd07e0a815ca 4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4c3d0ede44ffb59f4413211cbe6f41550296e2a3",
+  "prompts": {},
+  "sessions": {
+    "s_effe07ddd86d90": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c52a-3012-7f01-9030-84142003207e",
+        "model": "gpt-6.1-terra"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    }
+  }
+}
