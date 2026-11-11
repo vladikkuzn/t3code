@@ -1,0 +1,30 @@
+apps/server/src/orchestration-v2/Adapters/ClaudeAdapterV2.ts
+  s_3e18f2cc5d6ddf::t_9dab4cec3bc113 4883-4884
+  s_d855b984ac1cd2::t_80d58418db66b8 4890
+apps/server/src/orchestration-v2/Adapters/ClaudeAdapterV2.test.ts
+  s_3e18f2cc5d6ddf::t_f3283ef0eddd62 7846-7868,7870-7872,7875,7877-7880,7898-7912,7918,7920,7923-7934
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a220d648b07938cc8594e2aec6e766c014c61a9e",
+  "prompts": {},
+  "sessions": {
+    "s_3e18f2cc5d6ddf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ff7079ea-c412-4d79-b222-0647e5b31b71",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    },
+    "s_d855b984ac1cd2": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "agent-fec1fc06-574f-449a-bb78-0ec8d0ff2f8b",
+        "model": "unknown"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    }
+  }
+}
