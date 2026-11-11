@@ -1,7 +1,11 @@
 apps/server/src/orchestration-v2/Adapters/ClaudeAdapterV2.test.ts
   s_43a7022a3c815f::t_1b531cac0d80b9 3386,8043-8165
+  s_3e18f2cc5d6ddf::t_0452476a895079 3386,8043-8153,8161
+  s_3e18f2cc5d6ddf::t_95be050f8f9929 8154-8160,8162-8165
 apps/server/src/orchestration-v2/Adapters/ClaudeAdapterV2.ts
   s_43a7022a3c815f::t_7bb32a3e7ad5b8 5165-5174
+  s_3e18f2cc5d6ddf::t_047b549d54b5d0 5165-5169,5174
+  s_d855b984ac1cd2::t_9eca5235a2a8ab 5170-5173
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -9,10 +13,26 @@ apps/server/src/orchestration-v2/Adapters/ClaudeAdapterV2.ts
   "base_commit_sha": "2499aa8f25893449903bed6361b516ffcdfd155b",
   "prompts": {},
   "sessions": {
+    "s_3e18f2cc5d6ddf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ff7079ea-c412-4d79-b222-0647e5b31b71",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    },
     "s_43a7022a3c815f": {
       "agent_id": {
         "tool": "cursor",
         "id": "agent-5b2a8479-c4e1-4b0a-a9a7-801a52c4678e",
+        "model": "unknown"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    },
+    "s_d855b984ac1cd2": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "agent-fec1fc06-574f-449a-bb78-0ec8d0ff2f8b",
         "model": "unknown"
       },
       "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
