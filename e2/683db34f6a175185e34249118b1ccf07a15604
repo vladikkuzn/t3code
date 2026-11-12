@@ -1,0 +1,19 @@
+apps/server/src/persistence/reconcileV2PreviewMigration.test.ts
+  s_f03280e5f38d78::t_79c1d0d2ac5be7 65,171
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e2683db34f6a175185e34249118b1ccf07a15604",
+  "prompts": {},
+  "sessions": {
+    "s_f03280e5f38d78": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "agent-5112b5c0-a1ea-487a-9b83-d47d97529c73",
+        "model": "unknown"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    }
+  }
+}
