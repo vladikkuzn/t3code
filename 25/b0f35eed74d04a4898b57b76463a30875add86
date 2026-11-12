@@ -1,0 +1,19 @@
+apps/server/src/scheduledTasks/ScheduledTaskService.ts
+  s_2c527ff1ee33f5::t_c0353ec6e1abd0 913-921
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "25b0f35eed74d04a4898b57b76463a30875add86",
+  "prompts": {},
+  "sessions": {
+    "s_2c527ff1ee33f5": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "agent-9d9931fb-001f-48f7-8617-e9f9d1f9dc81",
+        "model": "unknown"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    }
+  }
+}
