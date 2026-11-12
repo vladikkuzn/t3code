@@ -1,7 +1,19 @@
+apps/web/src/components/settings/scheduledTasksSettings.logic.ts
+  s_2c527ff1ee33f5::t_b591f7e3c7d480 52,55-57
 ---
 {
   "schema_version": "authorship/3.0.0",
   "git_ai_version": "1.7.5",
   "base_commit_sha": "873f8807d1eab4a6684ee674c2827615ad9584aa",
-  "prompts": {}
+  "prompts": {},
+  "sessions": {
+    "s_2c527ff1ee33f5": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "agent-9d9931fb-001f-48f7-8617-e9f9d1f9dc81",
+        "model": "unknown"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    }
+  }
 }
