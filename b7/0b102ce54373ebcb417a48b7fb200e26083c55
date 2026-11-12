@@ -1,0 +1,19 @@
+apps/server/src/orchestration-v2/ThreadManagementService.ts
+  s_70c02dc5ba28d9::t_d09ee44f8021dc 1700-1702
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b70b102ce54373ebcb417a48b7fb200e26083c55",
+  "prompts": {},
+  "sessions": {
+    "s_70c02dc5ba28d9": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c560-2aa3-78a1-b073-3af44424f02a",
+        "model": "gpt-6.1-terra"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    }
+  }
+}

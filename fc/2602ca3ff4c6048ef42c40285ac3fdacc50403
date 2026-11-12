@@ -1,0 +1,44 @@
+apps/server/src/persistence/OrchestrationCommandReceipts.ts
+  s_7095c1141bd0dd::t_1c2a205ddbaf58 25,69-70,80-81,91-92,109-110,133-134,144-145
+apps/server/src/orchestration-v2/FoundationPersistence.test.ts
+  s_7095c1141bd0dd::t_2793798b04193d 1547-1550,1556-1571
+  s_7095c1141bd0dd::t_51358a410ebbfe 1551-1555
+apps/server/src/orchestration-v2/CommandReceiptStore.ts
+  s_7095c1141bd0dd::t_51358a410ebbfe 129
+  s_7095c1141bd0dd::t_1c2a205ddbaf58 51,112
+apps/server/src/persistence/Migrations/083_CommandReceiptResultMetadata.ts
+  s_7095c1141bd0dd::t_1c2a205ddbaf58 1-7
+apps/server/src/orchestration-v2/EventSink.ts
+  s_7095c1141bd0dd::t_51358a410ebbfe 233-237,737-763
+  s_7095c1141bd0dd::t_83757e888c4eff 772
+  s_7095c1141bd0dd::t_2480e4bf78eab8 238
+apps/server/src/orchestration-v2/Orchestrator.control-reads.test.ts
+  s_7095c1141bd0dd::t_48dfa0d615b8f9 1217-1225
+apps/server/src/persistence/Migrations.ts
+  s_f03280e5f38d78::t_8b3efc9db8a44b 88
+  s_f03280e5f38d78::t_b525d1352d8ba5 174
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "fc2602ca3ff4c6048ef42c40285ac3fdacc50403",
+  "prompts": {},
+  "sessions": {
+    "s_7095c1141bd0dd": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c523-068f-7263-a770-cce37d61723d",
+        "model": "gpt-6.1-terra"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    },
+    "s_f03280e5f38d78": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "agent-5112b5c0-a1ea-487a-9b83-d47d97529c73",
+        "model": "unknown"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    }
+  }
+}

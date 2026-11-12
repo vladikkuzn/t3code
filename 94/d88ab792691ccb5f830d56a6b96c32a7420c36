@@ -1,0 +1,26 @@
+apps/server/src/orchestration-v2/Orchestrator.control-reads.test.ts
+  s_076c578e865c92::t_7a23d6cc51219a 1213
+  s_076c578e865c92::t_b59531241ee7f1 1201-1202,1211-1212,1214,1227-1235
+apps/server/src/mcp/OrchestratorMcpToolkit.integration.test.ts
+  s_076c578e865c92::t_0ebb4fe61244ce 446-458,460-461,463-473
+  s_076c578e865c92::t_85de89bf972a36 22,24,358,366-378,381-382,384,386-388,390-391,393-396,401-407,409
+  s_076c578e865c92::t_4cd2991377f147 379,383,385,389,392,408,459,462
+apps/server/src/mcp/OrchestratorMcpService.test.ts
+  s_076c578e865c92::t_a82f79738e0388 2110-2111,2121-2122,2126-2132,2155-2158
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "94d88ab792691ccb5f830d56a6b96c32a7420c36",
+  "prompts": {},
+  "sessions": {
+    "s_076c578e865c92": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c536-d5c9-7210-9f29-9cbcc04f6f09",
+        "model": "gpt-6.1-terra"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    }
+  }
+}
