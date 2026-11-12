@@ -34,6 +34,8 @@ apps/server/src/mcp/OrchestratorMcpService.test.ts
 apps/server/src/relay/AgentAwarenessRelay.test.ts
   s_effe07ddd86d90::t_854037723450a0 254
   s_effe07ddd86d90::t_4fb4d81fa02429 255
+apps/server/src/provider/agentContextBudget.json
+  s_f03280e5f38d78::t_2f4862201db1f6 4
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -46,6 +48,14 @@ apps/server/src/relay/AgentAwarenessRelay.test.ts
         "tool": "codex",
         "id": "01a1c52a-3012-7f01-9030-84142003207e",
         "model": "gpt-6.1-terra"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    },
+    "s_f03280e5f38d78": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "agent-5112b5c0-a1ea-487a-9b83-d47d97529c73",
+        "model": "unknown"
       },
       "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
     }
