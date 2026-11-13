@@ -3,6 +3,7 @@ packages/provider-cursor/src/server/usageLimits.test.ts
   s_ed785a28271ae5::t_f9fc81729ecd11 97-98,100-104
 packages/provider-cursor/src/server/usageLimits.ts
   s_ed785a28271ae5::t_fc0d50ffcbfc63 61-69
+  s_115888d2cd1b84::t_59e20f5f5dfe7a 60
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -10,6 +11,14 @@ packages/provider-cursor/src/server/usageLimits.ts
   "base_commit_sha": "93cb888ff71116c679ae268c22e917f68ea3aee8",
   "prompts": {},
   "sessions": {
+    "s_115888d2cd1b84": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "agent-3d6dace1-6b95-4562-a83d-509afed56eab",
+        "model": "unknown"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    },
     "s_ad20e2ac716098": {
       "agent_id": {
         "tool": "cursor",
