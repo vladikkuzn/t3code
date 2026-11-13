@@ -9,6 +9,8 @@ packages/shared/src/usageLimits.ts
   s_76d3ead475dee7::t_a3072dc3766f9a 46-47,148-152
 docs/user/usage.md
   s_f611a909e781a5::t_3657877b6fda46 163-164
+packages/shared/src/usageLimits.test.ts
+  s_115888d2cd1b84::t_0e1c13c378b255 132
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -16,6 +18,14 @@ docs/user/usage.md
   "base_commit_sha": "90ec3e2ae9c4502f8b104048ef7e350e852aa09a",
   "prompts": {},
   "sessions": {
+    "s_115888d2cd1b84": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "agent-3d6dace1-6b95-4562-a83d-509afed56eab",
+        "model": "unknown"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    },
     "s_19c78dd3d6b7b2": {
       "agent_id": {
         "tool": "cursor",
