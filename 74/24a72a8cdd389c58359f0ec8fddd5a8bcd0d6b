@@ -34,6 +34,8 @@ apps/server/src/mcp/OrchestratorMcpService.test.ts
 apps/server/src/relay/AgentAwarenessRelay.test.ts
   s_effe07ddd86d90::t_854037723450a0 254
   s_effe07ddd86d90::t_4fb4d81fa02429 255
+apps/server/src/provider/agentContextBudget.json
+  s_36ec4ab7d5c8af::t_722431b4cef394 4
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -41,6 +43,14 @@ apps/server/src/relay/AgentAwarenessRelay.test.ts
   "base_commit_sha": "7424a72a8cdd389c58359f0ec8fddd5a8bcd0d6b",
   "prompts": {},
   "sessions": {
+    "s_36ec4ab7d5c8af": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "agent-a303806a-4156-44e7-99e6-a83e385fe7da",
+        "model": "unknown"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    },
     "s_effe07ddd86d90": {
       "agent_id": {
         "tool": "codex",
