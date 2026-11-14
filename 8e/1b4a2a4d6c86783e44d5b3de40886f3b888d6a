@@ -1,0 +1,21 @@
+packages/provider-cursor/src/server/usageLimits.ts
+  s_19c78dd3d6b7b2::t_15d10d2c30c7b6 19
+packages/provider-cursor/src/server/usageLimits.test.ts
+  s_19c78dd3d6b7b2::t_6eb712c7f4b87b 100
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "8e1b4a2a4d6c86783e44d5b3de40886f3b888d6a",
+  "prompts": {},
+  "sessions": {
+    "s_19c78dd3d6b7b2": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "agent-eaa27485-7bfa-4e27-b06c-f4c07e3ffdf0",
+        "model": "unknown"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    }
+  }
+}
