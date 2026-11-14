@@ -14,6 +14,9 @@ apps/server/src/orchestration-v2/EventSink.ts
   s_7095c1141bd0dd::t_2480e4bf78eab8 249
 apps/server/src/orchestration-v2/Orchestrator.control-reads.test.ts
   s_7095c1141bd0dd::t_48dfa0d615b8f9 1259-1267
+apps/server/src/persistence/Migrations.ts
+  s_da499a9167deba::t_9f21eba4c069b1 102
+  s_da499a9167deba::t_81f5dcce0ae8cf 197
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -34,6 +37,14 @@ apps/server/src/orchestration-v2/Orchestrator.control-reads.test.ts
         "tool": "codex",
         "id": "01a1c523-068f-7263-a770-cce37d61723d",
         "model": "gpt-6.1-terra"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    },
+    "s_da499a9167deba": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "agent-48187b19-2b74-437c-967d-36ff97e79992",
+        "model": "unknown"
       },
       "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
     },
