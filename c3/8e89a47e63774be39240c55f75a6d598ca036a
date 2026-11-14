@@ -1,0 +1,25 @@
+apps/mobile/src/features/settings/scheduledTaskDraft.test.ts
+  s_38eb7487b5d0d4::t_de3300c01c7293 186-187
+apps/mobile/src/features/settings/scheduledTaskDraft.ts
+  s_38eb7487b5d0d4::t_de3300c01c7293 226-230,239
+apps/mobile/src/features/settings/SettingsScheduledTasksRouteScreen.tsx
+  s_38eb7487b5d0d4::t_de3300c01c7293 171,174,1428-1432
+apps/server/src/scheduledTasks/ScheduledTaskService.ts
+  s_38eb7487b5d0d4::t_e7a7973769c7de 1276,1281-1283
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c38e89a47e63774be39240c55f75a6d598ca036a",
+  "prompts": {},
+  "sessions": {
+    "s_38eb7487b5d0d4": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "agent-87bd97f3-6994-4b07-9861-a208b5400ec4",
+        "model": "unknown"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    }
+  }
+}
