@@ -1,0 +1,19 @@
+apps/mobile/src/features/usage/UsageLimitsPooled.tsx
+  s_9d45a03f5195dd::t_d79ea95bde321f 595
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d482d93f58c30c89429bb29db98bfe8fc11698e5",
+  "prompts": {},
+  "sessions": {
+    "s_9d45a03f5195dd": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "agent-37ed9a96-87da-4ea7-9ad8-553bf3a034b4",
+        "model": "unknown"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    }
+  }
+}
