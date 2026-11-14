@@ -2,6 +2,10 @@ apps/server/src/mcp/OrchestratorMcpToolkit.integration.test.ts
   s_b363d4f10faaf1::t_08866d16c1e44d 456,904,923
   s_b363d4f10faaf1::t_986c474d64d225 23
   s_b363d4f10faaf1::t_eaee8ce8b12294 45
+  s_da499a9167deba::t_bf4d5763cadac3 378-391,398-406
+  s_da499a9167deba::t_d03c30433cbd71 905-922,924-936
+  s_da499a9167deba::t_6f35157646bccb 218,227
+  s_da499a9167deba::t_7cc01da1ae04b0 482-489
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -14,6 +18,14 @@ apps/server/src/mcp/OrchestratorMcpToolkit.integration.test.ts
         "tool": "codex",
         "id": "01a1c545-597e-7e33-9986-0cec0203b4e7",
         "model": "gpt-6.1-terra"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    },
+    "s_da499a9167deba": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "agent-48187b19-2b74-437c-967d-36ff97e79992",
+        "model": "unknown"
       },
       "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
     }
