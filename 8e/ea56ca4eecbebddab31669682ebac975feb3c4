@@ -1,0 +1,21 @@
+apps/server/src/orchestration-v2/Orchestrator.control-reads.test.ts
+  s_d4b5168a39ca13::t_d96725cf7b95cd 1215-1217
+  s_d4b5168a39ca13::t_794c21099698a1 1,27-28,39-41,49,1205-1214,1218-1226,1228-1274,1276-1281,1283-1287,1289-1304,1306-1309,1313-1316,1318-1320,1322-1326,1329-1331
+  s_d4b5168a39ca13::t_fe52056ed06d7d 1227,1275,1282,1288,1305,1310-1312,1317,1321,1327-1328,1332-1333
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "8eea56ca4eecbebddab31669682ebac975feb3c4",
+  "prompts": {},
+  "sessions": {
+    "s_d4b5168a39ca13": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c54f-cebd-7c02-b2df-2789f4e1e89a",
+        "model": "gpt-6.1-terra"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    }
+  }
+}
