@@ -1,0 +1,25 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "aea9dc3fd3a88dc2b0766a2823f4f08784354703",
+  "prompts": {},
+  "sessions": {
+    "s_30c1914ef26648": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "agent-f0650e8f-298e-404d-a744-58d979acb032",
+        "model": "unknown"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    },
+    "s_691ed7d8b7848f": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "agent-2c58341e-717e-4d0e-a892-c883a06ed9a0",
+        "model": "unknown"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    }
+  }
+}
