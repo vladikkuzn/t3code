@@ -1,0 +1,19 @@
+apps/server/src/mcp/OrchestratorMcpToolkit.integration.test.ts
+  s_da499a9167deba::t_641352bd7fbadd 485-487,489-491,493-495
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d854f939b99a037ff13b4708a36a17786778719f",
+  "prompts": {},
+  "sessions": {
+    "s_da499a9167deba": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "agent-48187b19-2b74-437c-967d-36ff97e79992",
+        "model": "unknown"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    }
+  }
+}
