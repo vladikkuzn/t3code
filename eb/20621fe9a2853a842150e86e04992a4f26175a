@@ -1,5 +1,6 @@
 apps/server/src/mcp/OrchestratorMcpToolkit.integration.test.ts
   s_effe07ddd86d90::t_39b93443f696b7 12,87
+  s_da499a9167deba::t_4429a5fae4b177 371-385
 apps/server/src/orchestration-v2/ThreadManagementService.ts
   s_effe07ddd86d90::t_f8b30a37c23711 15,489,666,673,678-679,686-687,693-697,1803
   s_effe07ddd86d90::t_854037723450a0 75-78,474-488,663-665,667-672,674-677,680-685,688-692
@@ -45,6 +46,14 @@ apps/server/src/relay/AgentAwarenessRelay.test.ts
       "agent_id": {
         "tool": "cursor",
         "id": "agent-a303806a-4156-44e7-99e6-a83e385fe7da",
+        "model": "unknown"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    },
+    "s_da499a9167deba": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "agent-48187b19-2b74-437c-967d-36ff97e79992",
         "model": "unknown"
       },
       "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
