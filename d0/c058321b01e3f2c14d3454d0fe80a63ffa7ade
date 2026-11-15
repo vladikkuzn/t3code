@@ -1,0 +1,20 @@
+apps/server/src/orchestration-v2/EventSink.ts
+  s_08c5811dda5e3e::t_044435cf09a5e2 922
+  s_08c5811dda5e3e::t_06cc7b2e99343e 808
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d0c058321b01e3f2c14d3454d0fe80a63ffa7ade",
+  "prompts": {},
+  "sessions": {
+    "s_08c5811dda5e3e": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "agent-ea34f4bd-ebae-49ec-92dc-e3a6d7a901e7",
+        "model": "unknown"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    }
+  }
+}
