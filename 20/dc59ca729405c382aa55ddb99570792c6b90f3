@@ -14,6 +14,9 @@ apps/server/src/orchestration-v2/EventSink.ts
   s_7095c1141bd0dd::t_2480e4bf78eab8 261
 apps/server/src/orchestration-v2/Orchestrator.control-reads.test.ts
   s_7095c1141bd0dd::t_48dfa0d615b8f9 1271-1279
+apps/server/src/persistence/Migrations.ts
+  s_08c5811dda5e3e::t_a42e932fd8e14d 104
+  s_08c5811dda5e3e::t_da0f4b468cac96 201
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -21,6 +24,14 @@ apps/server/src/orchestration-v2/Orchestrator.control-reads.test.ts
   "base_commit_sha": "20dc59ca729405c382aa55ddb99570792c6b90f3",
   "prompts": {},
   "sessions": {
+    "s_08c5811dda5e3e": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "agent-ea34f4bd-ebae-49ec-92dc-e3a6d7a901e7",
+        "model": "unknown"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    },
     "s_36ec4ab7d5c8af": {
       "agent_id": {
         "tool": "cursor",
