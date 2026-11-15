@@ -1,3 +1,5 @@
+apps/server/src/provider/agentContextBudget.json
+  s_08c5811dda5e3e::t_6545cb57f36f2a 4
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -5,6 +7,14 @@
   "base_commit_sha": "fc7d099222ddceccecb682ec2fe54e899ac26d92",
   "prompts": {},
   "sessions": {
+    "s_08c5811dda5e3e": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "agent-ea34f4bd-ebae-49ec-92dc-e3a6d7a901e7",
+        "model": "unknown"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    },
     "s_da499a9167deba": {
       "agent_id": {
         "tool": "cursor",
