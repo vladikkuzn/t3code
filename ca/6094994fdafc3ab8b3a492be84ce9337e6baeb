@@ -1,3 +1,5 @@
+apps/server/src/provider/agentContextBudget.json
+  s_539a7b61d76906::t_4f68205f0e7a6c 4
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -9,6 +11,14 @@
       "agent_id": {
         "tool": "cursor",
         "id": "agent-ea34f4bd-ebae-49ec-92dc-e3a6d7a901e7",
+        "model": "unknown"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    },
+    "s_539a7b61d76906": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "agent-371cf741-f799-4724-b310-ca62ea9b34fd",
         "model": "unknown"
       },
       "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
