@@ -1,0 +1,21 @@
+apps/server/src/mcp/toolkits/orchestrator/tools.ts
+  s_90fbad85c64c9c::t_422ccc0935dc6b 172
+packages/contracts/src/orchestratorMcp.ts
+  s_90fbad85c64c9c::t_5f6c6aee7c316d 72
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "32598dd05428ef6638b70aade8e8fdd533104d99",
+  "prompts": {},
+  "sessions": {
+    "s_90fbad85c64c9c": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "agent-abd4cb62-4468-40ab-8c6b-7bbca60e26c5",
+        "model": "unknown"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    }
+  }
+}
