@@ -1,0 +1,19 @@
+packages/shared/src/usageLimitsCopy.ts
+  s_2b23a2202363a9::t_4fc8123f98d156 39-42
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "dea0cc2aa9d4966d833c84861fc53a5ad8136efd",
+  "prompts": {},
+  "sessions": {
+    "s_2b23a2202363a9": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f615-b23a-7792-ac65-5d607ca7fc0d",
+        "model": "gpt-6.1-terra"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    }
+  }
+}
