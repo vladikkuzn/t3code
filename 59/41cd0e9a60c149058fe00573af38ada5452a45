@@ -1,0 +1,25 @@
+apps/server/src/provider/claudeUsageLimits.test.ts
+  s_c798977cccc3a6::t_bcc3ac8a64a56e 131,137-140,203-211
+apps/web/src/components/usage/UsageLimitsPooled.tsx
+  s_c798977cccc3a6::t_bcc3ac8a64a56e 6,155,203,608,610-611,635-640
+apps/server/src/provider/claudeUsageLimits.ts
+  s_c798977cccc3a6::t_bcc3ac8a64a56e 96-108,120-130,135-148,150,251,253-254
+apps/mobile/src/features/usage/UsageLimitsPooled.tsx
+  s_c798977cccc3a6::t_bcc3ac8a64a56e 10,198-202,459,469,672-674
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5941cd0e9a60c149058fe00573af38ada5452a45",
+  "prompts": {},
+  "sessions": {
+    "s_c798977cccc3a6": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f615-dc19-7f93-b20c-7c2aedc0901e",
+        "model": "gpt-6.1-terra"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    }
+  }
+}
