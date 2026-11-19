@@ -1,0 +1,30 @@
+apps/mobile/src/features/usage/UsageLimitsPooled.tsx
+  s_c798977cccc3a6::t_bcc3ac8a64a56e 201-203
+  s_b82634478c8f3d::t_0ba8ebdf798b6c 674
+apps/web/src/components/usage/UsageLimitsPooled.tsx
+  s_c798977cccc3a6::t_bcc3ac8a64a56e 638-640
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a857424f4e0420783e4f7a7de81b872683e67891",
+  "prompts": {},
+  "sessions": {
+    "s_b82634478c8f3d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f617-26d9-78b0-bfaf-fbb9747d028b",
+        "model": "gpt-6.1-terra"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    },
+    "s_c798977cccc3a6": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f615-dc19-7f93-b20c-7c2aedc0901e",
+        "model": "gpt-6.1-terra"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    }
+  }
+}
