@@ -1,6 +1,8 @@
 apps/server/src/orchestration-v2/Orchestrator.control-reads.test.ts
   s_076c578e865c92::t_7a23d6cc51219a 1267
   s_076c578e865c92::t_b59531241ee7f1 1255-1256,1265-1266,1295-1303
+  s_71b6ae8f5a108d::t_f230c4ed9d885a 1257-1264
+  s_71b6ae8f5a108d::t_ed0eba8dfee5b0 1280
 apps/server/src/mcp/OrchestratorMcpToolkit.integration.test.ts
   s_076c578e865c92::t_0ebb4fe61244ce 455
   s_076c578e865c92::t_85de89bf972a36 23,25,429-431
@@ -19,6 +21,14 @@ apps/server/src/mcp/OrchestratorMcpService.test.ts
       "agent_id": {
         "tool": "codex",
         "id": "01a1c536-d5c9-7210-9f29-9cbcc04f6f09",
+        "model": "gpt-6.1-terra"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    },
+    "s_71b6ae8f5a108d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f615-616e-7560-8907-0e3bb06a7c51",
         "model": "gpt-6.1-terra"
       },
       "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
