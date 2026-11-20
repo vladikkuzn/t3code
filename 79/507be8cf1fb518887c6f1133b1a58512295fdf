@@ -7,6 +7,15 @@ apps/mobile/src/features/settings/SettingsScheduledTasksRouteScreen.tsx
   s_90fbad85c64c9c::t_13febff80613f4 1332-1339
   s_90fbad85c64c9c::t_a63877dc35ede7 1553-1556
   s_90fbad85c64c9c::t_2e487fb4eca2b3 453-456,460-461,464-467,469-472,475-477,479-485
+  s_323041bd532435::t_2adacc6c56a0fd 83,142,181-193,451-452,457-459,462-463,468,473-474,478,486-526,873,1263,1330-1331,1340,1515-1523,1528-1539,1544-1552,1557-1568,1577-1580,1594-1595,1612
+apps/mobile/src/features/settings/scheduledTaskDraft.test.ts
+  s_323041bd532435::t_2adacc6c56a0fd 11,25,27-66,156-236
+apps/mobile/src/features/settings/scheduledTaskPresentation.ts
+  s_323041bd532435::t_2adacc6c56a0fd 30-42
+apps/mobile/src/features/settings/scheduledTaskDraft.ts
+  s_323041bd532435::t_2adacc6c56a0fd 62-64,81-83,105-106,111-121,123,149-169,223-237,239-240,283-285
+apps/mobile/src/features/settings/scheduled-task-editor-state.test.ts
+  s_323041bd532435::t_2adacc6c56a0fd 127-144
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -19,6 +28,14 @@ apps/mobile/src/features/settings/SettingsScheduledTasksRouteScreen.tsx
         "tool": "cursor",
         "id": "agent-9d9931fb-001f-48f7-8617-e9f9d1f9dc81",
         "model": "unknown"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    },
+    "s_323041bd532435": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f650-b7bc-7452-baaa-1decf6251386",
+        "model": "gpt-6.1-terra"
       },
       "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
     },
