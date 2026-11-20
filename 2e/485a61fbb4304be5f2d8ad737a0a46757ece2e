@@ -1,0 +1,23 @@
+apps/server/src/scheduledTasks/Schedule.test.ts
+  s_323041bd532435::t_460d65620315ff 163
+apps/server/src/scheduledTasks/Schedule.ts
+  s_323041bd532435::t_460d65620315ff 187-194
+apps/web/src/components/settings/ScheduledTasksSettings.tsx
+  s_323041bd532435::t_460d65620315ff 2343
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2e485a61fbb4304be5f2d8ad737a0a46757ece2e",
+  "prompts": {},
+  "sessions": {
+    "s_323041bd532435": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f650-b7bc-7452-baaa-1decf6251386",
+        "model": "gpt-6.1-terra"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    }
+  }
+}
