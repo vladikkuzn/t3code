@@ -1,5 +1,19 @@
 apps/server/src/scheduledTasks/ScheduledTaskService.ts
   s_2c527ff1ee33f5::t_c0353ec6e1abd0 1008-1016
+apps/server/src/scheduledTasks/ScheduledTaskService.test.ts
+  s_323041bd532435::t_a6b037d5f94bef 209-223,227-244,246-257,259-260,275-276
+apps/web/src/components/settings/ScheduledTasksSettings.tsx
+  s_323041bd532435::t_a6b037d5f94bef 1516-1517,1682-1688,2359,2462-2464
+apps/server/src/scheduledTasks/Schedule.test.ts
+  s_323041bd532435::t_a6b037d5f94bef 152-159
+packages/contracts/src/environment.ts
+  s_323041bd532435::t_a6b037d5f94bef 200-201
+apps/mobile/src/features/settings/SettingsScheduledTasksRouteScreen.tsx
+  s_323041bd532435::t_a6b037d5f94bef 895,929-939,1534,1629-1630
+apps/server/src/scheduledTasks/Schedule.ts
+  s_323041bd532435::t_a6b037d5f94bef 40-41
+apps/server/src/environment/ServerEnvironment.ts
+  s_323041bd532435::t_a6b037d5f94bef 284
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -12,6 +26,14 @@ apps/server/src/scheduledTasks/ScheduledTaskService.ts
         "tool": "cursor",
         "id": "agent-9d9931fb-001f-48f7-8617-e9f9d1f9dc81",
         "model": "unknown"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    },
+    "s_323041bd532435": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f650-b7bc-7452-baaa-1decf6251386",
+        "model": "gpt-6.1-terra"
       },
       "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
     },
