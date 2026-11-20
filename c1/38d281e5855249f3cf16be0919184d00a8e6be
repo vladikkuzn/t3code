@@ -1,0 +1,41 @@
+apps/web/src/components/settings/scheduledTasksSettings.logic.ts
+  s_323041bd532435::t_caf0fdd3f6772d 70-87,228-233,235-240,242-247
+apps/web/src/components/settings/ScheduledTasksSettings.tsx
+  s_323041bd532435::t_91aa63a03d48b5 1683-1684
+  s_323041bd532435::t_caf0fdd3f6772d 2325-2327,2344-2346,2350-2352,2357-2361,2386-2388,2404-2406,2422-2426
+apps/server/src/orchestration-v2/Orchestrator.ts
+  s_323041bd532435::t_30429e4c9bc0d9 78,111-113,1618,17048
+  s_323041bd532435::t_e8c54ac053ea61 3393
+  s_323041bd532435::t_cf512c9a1d3d48 220-223
+  s_323041bd532435::t_e357b7bfaf7e89 3191-3221
+  s_323041bd532435::t_0124f47865f726 3394-3399
+apps/mobile/src/features/settings/scheduledTaskPresentation.ts
+  s_323041bd532435::t_caf0fdd3f6772d 32-36,43-46,48-74
+  s_323041bd532435::t_91aa63a03d48b5 42
+apps/server/src/orchestration-v2/ThreadStop.test.ts
+  s_323041bd532435::t_789f8c1679610e 2247,2257,2307,2328,2333,2345-2346
+  s_323041bd532435::t_e6cb5061d04332 2248-2256,2282-2283
+  s_323041bd532435::t_1c5050121b1d6a 2245-2246,2258-2281,2284-2306,2308-2327,2329-2332,2334-2344
+  s_323041bd532435::t_7562ec71fa0b12 2244,2347
+apps/server/src/orchestration-v2/testkit/ProviderReplayHarness.ts
+  s_323041bd532435::t_30429e4c9bc0d9 511
+apps/mobile/src/features/settings/SettingsScheduledTasksRouteScreen.tsx
+  s_323041bd532435::t_91aa63a03d48b5 1578
+  s_323041bd532435::t_1c5050121b1d6a 142-147
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c138d281e5855249f3cf16be0919184d00a8e6be",
+  "prompts": {},
+  "sessions": {
+    "s_323041bd532435": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f650-b7bc-7452-baaa-1decf6251386",
+        "model": "gpt-6.1-terra"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    }
+  }
+}
