@@ -6,6 +6,19 @@ apps/mobile/src/features/settings/SettingsScheduledTasksRouteScreen.tsx
   s_38eb7487b5d0d4::t_de3300c01c7293 189,192,1616-1620
 apps/server/src/scheduledTasks/ScheduledTaskService.ts
   s_38eb7487b5d0d4::t_e7a7973769c7de 1333,1338-1340
+  s_323041bd532435::t_f48b3abe1de33b 63
+apps/server/src/scheduledTasks/Schedule.test.ts
+  s_323041bd532435::t_f48b3abe1de33b 4,137-166
+apps/web/src/components/settings/scheduledTasksSettings.logic.ts
+  s_323041bd532435::t_f48b3abe1de33b 215
+apps/server/src/scheduledTasks/Schedule.ts
+  s_323041bd532435::t_f48b3abe1de33b 32-54,68-69,174,179-186
+apps/web/src/components/settings/scheduledTasksSettings.logic.test.ts
+  s_323041bd532435::t_f48b3abe1de33b 363,419
+apps/server/src/scheduledTasks/ScheduledTaskService.test.ts
+  s_323041bd532435::t_f48b3abe1de33b 173-256
+apps/web/src/components/settings/ScheduledTasksSettings.tsx
+  s_323041bd532435::t_f48b3abe1de33b 2343
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -13,6 +26,14 @@ apps/server/src/scheduledTasks/ScheduledTaskService.ts
   "base_commit_sha": "b02e6d8a26aa86d46d91bcf8a844a2663075d3f9",
   "prompts": {},
   "sessions": {
+    "s_323041bd532435": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f650-b7bc-7452-baaa-1decf6251386",
+        "model": "gpt-6.1-terra"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    },
     "s_38eb7487b5d0d4": {
       "agent_id": {
         "tool": "cursor",
