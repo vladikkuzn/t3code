@@ -1,0 +1,21 @@
+apps/mobile/src/features/settings/SettingsScheduledTasksRouteScreen.tsx
+  s_90fbad85c64c9c::t_e8e54a270289ca 454,482
+packages/contracts/src/orchestratorMcp.ts
+  s_90fbad85c64c9c::t_e8e54a270289ca 71
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2ef0531e5f29fc470a77b3ade5e93599ac83ac84",
+  "prompts": {},
+  "sessions": {
+    "s_90fbad85c64c9c": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "agent-abd4cb62-4468-40ab-8c6b-7bbca60e26c5",
+        "model": "unknown"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    }
+  }
+}
